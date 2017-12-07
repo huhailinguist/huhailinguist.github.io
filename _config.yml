@@ -9,7 +9,7 @@ title:            Hai Hu
 tagline:          'A Jekyll theme'
 description:      'PhD student in linguistics'
 url:              http://hyde.getpoole.com
-baseurl:          /hyde/
+baseurl:          
 
 author:
   name:           'Mark Otto'
