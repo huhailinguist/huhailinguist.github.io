@@ -1,6 +1,6 @@
 ---
 layout: default
-title: {{ site.name }}
+title: Homepage of Hai
 ---
 
 # Homepage of Hai

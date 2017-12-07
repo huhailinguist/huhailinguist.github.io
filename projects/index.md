@@ -1,4 +1,7 @@
-# Publication & projects
+---
+layout: page
+title:  Publication & projects
+---
 
 ## Chinese segmentation and parsing.
 
