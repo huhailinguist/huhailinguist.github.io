@@ -15,5 +15,5 @@ Most of my research interests: Chinese linguistics, parsing, syntactic differenc
 
 ## [CV](cv/)
 
-test test
+test
 
