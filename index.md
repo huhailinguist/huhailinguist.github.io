@@ -14,5 +14,3 @@ Most of my research interests: Chinese linguistics, parsing, syntactic differenc
 ## [Projects](projects/)
 
 ## [CV](cv/)
-
-this is a test
