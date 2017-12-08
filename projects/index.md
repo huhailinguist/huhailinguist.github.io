@@ -5,7 +5,7 @@ title:  Publication & projects
 
 ## Chinese segmentation and parsing
 
-Hu, Hai, Dannial Dakota, and Sandra Kübler (2017). [Non-Deterministic Segmentation for Chinese Lattice Parsing](http://acl-bg.org/proceedings/2017/RANLP%202017/pdf/RANLP043.pdf){:target="_blank"}. In *Proceedings of Recent Advances of Natural Language Processing 2017*. Varna, Bulgaria. [bib](ranlp2017.bib){:target="_blank"}
+Hu, Hai, Dannial Dakota, and Sandra Kübler (2017). [Non-Deterministic Segmentation for Chinese Lattice Parsing](http://acl-bg.org/proceedings/2017/RANLP%202017/pdf/RANLP043.pdf){:target="_blank"}. In *Proceedings of Recent Advances of Natural Language Processing 2017*. Varna, Bulgaria. [bib](ranlp2017.bib.txt){:target="_blank"}
 
 
 ## Usage of English acronyms in Chinese text
@@ -16,7 +16,7 @@ People’s Daily on English words in Chinese: [中外文夹杂 真让人犯晕](
 
 ## Chengdu dialect of Mandarin
 
-Hai Hu and Yiwen Zhang (to appear). “Path of Vowel Raising in Chengdu Dialect of Mandarin”. 29th North America Conference on Chinese Linguistics. [abstract](NACCL29_Hu_IndianaUniv.pdf){:target="_blank"}
+Hu, Hai and Yiwen Zhang (to appear). “Path of Vowel Raising in Chengdu Dialect of Mandarin”. 29th North America Conference on Chinese Linguistics. [abstract](NACCL29_Hu_IndianaUniv.pdf){:target="_blank"}
 
 Zhang, Yiwen and Hai Hu (2017). “Vowel Raising in Chengdu Dialect of Mandarin”. Poster presented at *Linguistic Society of America 2017 Annual Meeting*. Austin, TX. [abstract](http://www.linguisticsociety.org/abstract/vowel-raising-chengdu-dialect-mandarin){:target="_blank"}
 
