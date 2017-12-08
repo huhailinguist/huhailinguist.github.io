@@ -10,7 +10,7 @@ Hu, Hai, Dannial Dakota, and Sandra Kübler (2017). [Non-Deterministic Segmentat
 
 ## Usage of English acronyms in Chinese text
 
-Hu, Hai (2016). [Is China entering WTO or shijie maoyi zuzhi–A Corpus-based Study of English Acronyms in Chinese Newspapers](https://arxiv.org/abs/1711.06895){:target="_blank"}. In: *Proceedings of 28th North America Conference on Chinese Linguistics*. Provo, Utah. [abstract](2016_naccl_abstract_hai-hu.pdf){:target="_blank"}
+Hu, Hai (2016). [Is China entering WTO or *shijie maoyi zuzhi*–A Corpus-based Study of English Acronyms in Chinese Newspapers](https://arxiv.org/abs/1711.06895){:target="_blank"}. In: *Proceedings of 28th North America Conference on Chinese Linguistics*. Provo, Utah. [abstract](2016_naccl_abstract_hai-hu.pdf){:target="_blank"}
 
 People’s Daily on English words in Chinese: [中外文夹杂 真让人犯晕](http://paper.people.com.cn/rmrb/html/2017-03/20/nw.D110000renmrb_20170320_7-01.htm){:target="_blank"}
 
