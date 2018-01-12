@@ -3,12 +3,16 @@ layout: page
 title:  Publication & projects
 ---
 
+Here are some publications and presentations.
+
 ## Chinese segmentation and parsing
 
 Hu, Hai, Dannial Dakota, and Sandra Kübler (2017). [Non-Deterministic Segmentation for Chinese Lattice Parsing](http://acl-bg.org/proceedings/2017/RANLP%202017/pdf/RANLP043.pdf){:target="_blank"}. In *Proceedings of Recent Advances of Natural Language Processing 2017*. Varna, Bulgaria. [bib](ranlp2017.bib.txt){:target="_blank"}
 
 
 ## Usage of English acronyms in Chinese text
+
+Hu, Hai (to present). English Acronyms in Chinese Texts: Diachronic Change and Synchronic Prediction. In: *Proceedings of 30th North America Conference on Chinese Linguistics*. Columbus, Ohio.
 
 Hu, Hai (2016). [Is China entering WTO or *shijie maoyi zuzhi*–A Corpus-based Study of English Acronyms in Chinese Newspapers](https://arxiv.org/abs/1711.06895){:target="_blank"}. In: *Proceedings of 28th North America Conference on Chinese Linguistics*. Provo, Utah. [abstract](2016_naccl_abstract_hai-hu.pdf){:target="_blank"}
 
