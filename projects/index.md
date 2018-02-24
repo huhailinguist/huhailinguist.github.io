@@ -7,10 +7,14 @@ Here are some publications and presentations.
 
 ## Chinese segmentation and parsing
 
+We showed that outputting _k_ best segmentations and passing all of them to a lattice parser will benefit both word segmentation and parsing, compared to traditional method of passing only the best segmentation to the parser. 
+
 Hu, Hai, Dannial Dakota, and Sandra Kübler (2017). [Non-Deterministic Segmentation for Chinese Lattice Parsing](http://acl-bg.org/proceedings/2017/RANLP%202017/pdf/RANLP043.pdf){:target="_blank"}. In *Proceedings of Recent Advances of Natural Language Processing 2017*. Varna, Bulgaria. [bib](ranlp2017.bib.txt){:target="_blank"}
 
 
 ## Usage of English acronyms in Chinese text
+
+In this project, I'm mainly concerned with the usage of English acronyms such as 'GDP', 'WTO' in Chinese. Many have expressed worries about the "contamination" of Chinese by incoming English acronyms and words, but very few descriptive studies have been done. The following are some of the first attempts to quanfity the degree of acronym usage and possible factors that drive language users to prefer "GDP" rather than "国民生产总值".
 
 Hu, Hai (to present). English Acronyms in Chinese Texts: Diachronic Change and Synchronic Prediction. In: *Proceedings of 30th North America Conference on Chinese Linguistics*. Columbus, Ohio.
 
@@ -19,6 +23,8 @@ Hu, Hai (2016). [Is China entering WTO or *shijie maoyi zuzhi*–A Corpus-based 
 People’s Daily on English words in Chinese: [中外文夹杂 真让人犯晕](http://paper.people.com.cn/rmrb/html/2017-03/20/nw.D110000renmrb_20170320_7-01.htm){:target="_blank"}
 
 ## Chengdu dialect of Mandarin
+
+A project about the raising of /an/ in Chengdu dialect of Mandarin. Please see the abstracts for more information. 
 
 Hu, Hai and Yiwen Zhang (to appear). “Path of Vowel Raising in Chengdu Dialect of Mandarin”. 29th North America Conference on Chinese Linguistics. [abstract](NACCL29_Hu_IndianaUniv.pdf){:target="_blank"}
 
