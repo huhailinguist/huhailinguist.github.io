@@ -19,7 +19,7 @@ paginate:         5
 gems:             [jekyll-gist]
 
 # Custom vars
-version:          2.1.0
+version:          1.0
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://github.com/huhailinguist/
