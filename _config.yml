@@ -8,8 +8,8 @@ permalink:        pretty
 title:            Hai Hu
 tagline:          'love for language'
 description:      'PhD student in linguistics'
-url:              https://github.com/huhailinguist/huhailinguist.github.io
-baseurl:          /huhailinguist.github.io
+url:              https://huhailinguist.github.io
+baseurl:          /
 
 author:
   name:           'Mark Otto'
