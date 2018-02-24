@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Homepage of Hai Hu
 ---
 
 # Homepage of Hai Hu
