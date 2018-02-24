@@ -1,9 +1,9 @@
 ---
-layout: default
-title: Homepage of Hai
+layout: page
+title: Home
 ---
 
-# Homepage of Hai
+# Homepage of Hai Hu
 
 My name is 胡 (Hu) 海 (Hai), but in English people say it in the reverse way, which sounds more like: Hi! Who?
  
