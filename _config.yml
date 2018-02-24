@@ -9,7 +9,7 @@ title:            Hai Hu
 tagline:          'love for language'
 description:      'PhD student in linguistics'
 url:              https://huhailinguist.github.io
-baseurl:          /
+baseurl:          ''
 
 author:
   name:           'Mark Otto'
