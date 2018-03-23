@@ -7,7 +7,7 @@ Here are some publications and presentations.
 
 ## Chinese segmentation and parsing
 
-We showed that outputting _k_ best segmentations and passing all of them to a lattice parser will benefit both word segmentation and parsing, compared to traditional method of passing only the best segmentation to the parser. 
+We show that outputting _k_ best segmentations and passing all of them to a lattice parser will benefit both word segmentation and parsing, compared to traditional method of passing only the best segmentation to the parser. 
 
 Hu, Hai, Dannial Dakota, and Sandra Kübler (2017). [Non-Deterministic Segmentation for Chinese Lattice Parsing](http://acl-bg.org/proceedings/2017/RANLP%202017/pdf/RANLP043.pdf){:target="_blank"}. In *Proceedings of Recent Advances of Natural Language Processing 2017*. Varna, Bulgaria. [bib](ranlp2017.bib.txt){:target="_blank"}
 
@@ -26,7 +26,7 @@ People’s Daily on English words in Chinese: [中外文夹杂 真让人犯晕](
 
 A project about the raising of /an/ in Chengdu dialect of Mandarin. Please see the abstracts for more information. 
 
-Hu, Hai and Yiwen Zhang (to appear). “Path of Vowel Raising in Chengdu Dialect of Mandarin”. 29th North America Conference on Chinese Linguistics. [abstract](NACCL29_Hu_IndianaUniv.pdf){:target="_blank"}
+Hu, Hai and Yiwen Zhang (to appear). [“Path of Vowel Raising in Chengdu Dialect of Mandarin”](https://arxiv.org/abs/1803.03887){:target="_blank"}. 29th North America Conference on Chinese Linguistics. [abstract](NACCL29_Hu_IndianaUniv.pdf){:target="_blank"}
 
 Zhang, Yiwen and Hai Hu (2017). “Vowel Raising in Chengdu Dialect of Mandarin”. Poster presented at *Linguistic Society of America 2017 Annual Meeting*. Austin, TX. [abstract](http://www.linguisticsociety.org/abstract/vowel-raising-chengdu-dialect-mandarin){:target="_blank"}
 
