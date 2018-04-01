@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  Publication & presentations
+title:  Publications & presentations
 ---
 
 Here are some publications and presentations.
