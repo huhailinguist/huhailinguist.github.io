@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  Publication & projects
+title:  Publication & presentations
 ---
 
 Here are some publications and presentations.
@@ -26,13 +26,18 @@ People’s Daily on English words in Chinese: [中外文夹杂 真让人犯晕](
 
 A project about the raising of /an/ in Chengdu dialect of Mandarin. Please see the abstracts for more information. 
 
-Hu, Hai and Yiwen Zhang (to appear). “Path of Vowel Raising in Chengdu Dialect of Mandarin”. 29th North America Conference on Chinese Linguistics. [paper](https://arxiv.org/abs/1803.03887){:target="_blank"}. [abstract](NACCL29_Hu_IndianaUniv.pdf){:target="_blank"}
+Hu, Hai and Yiwen Zhang (to appear). Path of Vowel Raising in Chengdu Dialect of Mandarin. 29th North America Conference on Chinese Linguistics. [paper](https://arxiv.org/abs/1803.03887){:target="_blank"}. [abstract](NACCL29_Hu_IndianaUniv.pdf){:target="_blank"}
 
-Zhang, Yiwen and Hai Hu (2017). “Vowel Raising in Chengdu Dialect of Mandarin”. Poster presented at *Linguistic Society of America 2017 Annual Meeting*. Austin, TX. [abstract](http://www.linguisticsociety.org/abstract/vowel-raising-chengdu-dialect-mandarin){:target="_blank"}
+Zhang, Yiwen and Hai Hu (2017). Vowel Raising in Chengdu Dialect of Mandarin. Poster presented at *Linguistic Society of America 2017 Annual Meeting*. Austin, TX. [abstract](http://www.linguisticsociety.org/abstract/vowel-raising-chengdu-dialect-mandarin){:target="_blank"}
 
 ## Chinese segmenter and morphology analyzer
 
 which is part of the Free Linguistic Environment at [LINGUIST List](https://www.linguistlist.org/){:target="_blank"}
 
-Cavar, Damir, Lwin Moe, Hai Hu, and Kenneth Steimel (2016). “Preliminary Results from the Free Linguistic Environment Project”. In: *Joint 2016 Conference on Head-driven Phrase Structure Grammar and Lexical Functional Grammar (HeadLex 2016)*. Warsaw, Poland. [paper](http://web.stanford.edu/group/cslipublications/cslipublications/HPSG/2016/headlex2016-cmhs.pdf){:target="_blank"}.
+Cavar, Damir, Lwin Moe, Hai Hu, and Kenneth Steimel. (2016). Preliminary Results from the Free Linguistic Environment Project. In: *Joint 2016 Conference on Head-driven Phrase Structure Grammar and Lexical Functional Grammar (HeadLex 2016)*. Warsaw, Poland. [paper](http://web.stanford.edu/group/cslipublications/cslipublications/HPSG/2016/headlex2016-cmhs.pdf){:target="_blank"}.
 
+## Sentence processing 
+
+Zhang, Yiwen, Hu, Hai, & Lin, Chien-Jer Charles. (2018). Nouns and verbs behave differently as fillers: Expectation and interference in constructing long-distance dependencies. Poster presented at the *31st annual CUNY Human Sentence Processing Conference*, Davis, CA. 
+
+Zhang, Yiwen, Hu, Hai, & Lin, Chien-Jer Charles. (2017). Processing verbs with ambiguous complement structures. Poster presented at the *Workshop on East Asian Psycholinguistics: Recent developments*, University of Hawaii at Mānoa, Honolulu, HI, October 15, 2017.
