@@ -3,7 +3,15 @@ layout: page
 title:  Publications & presentations
 ---
 
-Here are some publications and presentations.
+Here are some publications and presentations, grouped by topic.
+
+## Stylistic features of original and translated Chinese
+
+We use corpus and computational methods to analyze and understand lexical, syntactic and discourse-level features of (human) translated Chinese, compared with original Chinese. Ruoze Huang (黄若泽) from Chinese Uniersity of Hongkong first suggested this project and has been a tremendous help in corpus compilation and data analysis (see his webpage here). This is joint work with Chien-Jer Charles Lin, Sandra Kübler, Wen Li, and others.
+
+Currently we have the following papers, abstracts accepted or in prep.
+
+Lin, Chien-Jer Charles and Hai Hu. (2018). Syntactic Complexity as a Measure of Linguistic Authenticity in Modern Chinese. To present at *The 26th Annual Conference of International Association of Chinese Linguistics (IACL-26) & The 20th International Conference on Chinese Language and Culture (ICCLC-20)*. Madison, Wisconsin, USA.
 
 ## Usage of English acronyms in Chinese text
 
@@ -14,10 +22,6 @@ Hu, Hai (to present). English Acronyms in Chinese Texts: Diachronic Change and S
 Hu, Hai (2016). Is China entering WTO or *shijie maoyi zuzhi*–A Corpus-based Study of English Acronyms in Chinese Newspapers. In: *Proceedings of 28th North America Conference on Chinese Linguistics*. Provo, Utah. [paper](https://arxiv.org/abs/1711.06895){:target="_blank"}. [abstract](2016_naccl_abstract_hai-hu.pdf){:target="_blank"}.
 
 People’s Daily on English words in Chinese: [中外文夹杂 真让人犯晕](http://paper.people.com.cn/rmrb/html/2017-03/20/nw.D110000renmrb_20170320_7-01.htm){:target="_blank"}
-
-## Styles and complexity of Chinese text
-
-Lin, Chien-Jer Charles and Hai Hu. (2018). Syntactic Complexity as a Measure of Linguistic Authenticity in Modern Chinese. To present at *The 26th Annual Conference of International Association of Chinese Linguistics (IACL-26) & The 20th International Conference on Chinese Language and Culture (ICCLC-20)*. Madison, Wisconsin, USA.
 
 ## Chengdu dialect of Mandarin
 
