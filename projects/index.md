@@ -7,7 +7,7 @@ Here are some publications and presentations, grouped by topic.
 
 ## Stylistic features of original and translated Chinese
 
-We use corpus and computational methods to analyze and understand lexical, syntactic and discourse-level features of (human) translated Chinese, compared with original Chinese. Ruoze Huang (黄若泽) from The Chinese Uniersity of Hong Kong first suggested this project and has been a tremendous help in corpus compilation and data analysis (see his webpage here). This is joint work with Chien-Jer Charles Lin, Sandra Kübler, Wen Li, and others.
+We use corpus and computational methods to analyze and understand lexical, syntactic and discourse-level features of (human) translated Chinese, compared with original Chinese. Ruoze Huang (黄若泽) from The Chinese University of Hong Kong first suggested this project and has been a tremendous help in corpus compilation and data analysis (see his webpage here). This is joint work with Chien-Jer Charles Lin, Sandra Kübler, Wen Li, and others.
 
 Currently we have the following papers, abstracts accepted or in prep.
 
