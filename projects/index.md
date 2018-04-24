@@ -11,6 +11,8 @@ We use corpus and computational methods to analyze and understand lexical, synta
 
 Currently we have the following papers, abstracts accepted or in prep.
 
+Hu, Hai, Wen Li, and Sandra Kübler. (2018). Detecting Syntactic Features of Translated Chinese. In *Proceedings of 2018 NAACL 2nd Workshop on Stylistic Variation*. New Orleans, Louisiana, USA.
+
 Lin, Chien-Jer Charles and Hai Hu. (2018). Syntactic Complexity as a Measure of Linguistic Authenticity in Modern Chinese. To present at *The 26th Annual Conference of International Association of Chinese Linguistics (IACL-26) & The 20th International Conference on Chinese Language and Culture (ICCLC-20)*. Madison, Wisconsin, USA.
 
 ## Usage of English acronyms in Chinese text
