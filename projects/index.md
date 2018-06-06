@@ -17,7 +17,7 @@ Lin, Chien-Jer Charles and Hai Hu. (2018). Syntactic Complexity as a Measure of 
 
 ## Textual Inference Using Monotonicity Calculus and CCG
 
-Hu, Hai, and Lawrence S. Moss. (2018). Polarity Computations in Flexible Categorial Grammar. In *Proceedings of the 7th Joint Conference on Lexical and Computational Semantics: \*SEM at NAACL 2018*. New Orleans, Louisiana, USA.
+Hu, Hai, and Lawrence S. Moss. (2018). Polarity Computations in Flexible Categorial Grammar. In *Proceedings of the 7th Joint Conference on Lexical and Computational Semantics: \*SEM at NAACL 2018*. New Orleans, Louisiana, USA. [paper](http://aclweb.org/anthology/S18-2015). [poster](https://github.com/huhailinguist/huhailinguist.github.io/blob/master/projects/starSemPoster.pdf). [code](https://github.com/huhailinguist/ccg2mono)
 
 ## Usage of English acronyms in Chinese text
 
