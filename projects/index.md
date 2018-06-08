@@ -19,6 +19,8 @@ Lin, Chien-Jer Charles and Hai Hu. (2018). Syntactic Complexity as a Measure of 
 
 Hu, Hai, and Lawrence S. Moss. (2018). Polarity Computations in Flexible Categorial Grammar. In *Proceedings of the 7th Joint Conference on Lexical and Computational Semantics: \*SEM at NAACL 2018*. New Orleans, Louisiana, USA. [paper](http://aclweb.org/anthology/S18-2015){:target="_blank"}. [poster](https://huhailinguist.github.io/projects/starSemPoster.pdf){:target="_blank"}. [code](https://github.com/huhailinguist/ccg2mono){:target="_blank"}.
 
+Hu, Hai, Thomas Icard and Larry Moss. (2018). Automated Reasoning from Polarized Parse Trees. In *Proceedings of the Fifth Workshop on Natural Language and Computer Science*. Oxford, England. [paper](https://easychair.org/publications/preprint/xJmn){:target="_blank"}.
+
 ## Usage of English acronyms in Chinese text
 
 In this project, I'm mainly concerned with the usage of English acronyms such as 'GDP', 'WTO' in Chinese. Many have expressed worries about the "contamination" of Chinese by incoming English acronyms and words, but very few descriptive studies have been done. The following are some of the first attempts to quanfity the degree of acronym usage and possible factors that drive language users to prefer "GDP" rather than "国民生产总值".
