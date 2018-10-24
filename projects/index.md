@@ -53,6 +53,6 @@ The segmenter is part of the Free Linguistic Environment at [LINGUIST List](htt
 
 ## Sentence processing 
 
-- Zhang, Yiwen, Hu, Hai, & Lin, Chien-Jer Charles. (2018). Nouns and verbs behave differently as fillers: Expectation and interference in constructing long-distance dependencies. Poster presented at the *31st annual CUNY Human Sentence Processing Conference*, Davis, CA. 
+- Zhang, Yiwen, Hu, Hai, & Lin, Chien-Jer Charles. (2018). Nouns and verbs behave differently as fillers: Expectation and interference in constructing long-distance dependencies. Poster presented at the *31st annual CUNY Human Sentence Processing Conference*, Davis, CA. [poster](https://huhailinguist.github.io/projects/2018_zhang_hu_lin_cuny_poster_final.pdf).
 
 - Zhang, Yiwen, Hu, Hai, & Lin, Chien-Jer Charles. (2017). Processing verbs with ambiguous complement structures. Poster presented at the *Workshop on East Asian Psycholinguistics: Recent developments*, University of Hawaii at Mānoa, Honolulu, HI, October 15, 2017.
