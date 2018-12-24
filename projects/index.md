@@ -7,7 +7,9 @@ Here are some publications and presentations, grouped by topic.
 
 ## Stylistic features of original and translated Chinese
 
-We use corpus and computational methods to analyze and understand lexical, syntactic and discourse-level features of (human) translated Chinese, compared with original Chinese. Ruoze Huang (黄若泽) from The Chinese University of Hong Kong first suggested this project and has been a tremendous help in corpus compilation and data analysis (see his webpage here). This is joint work with Chien-Jer Charles Lin, Sandra Kübler, Wen Li, and others.
+We use corpus and computational methods to explore lexical, syntactic and discourse-level features of (human) translated Chinese, compared with original Chinese. The broader goal is to analyze and understand *translationese*, or *翻译腔*. 
+
+This is joint work with Chien-Jer Charles Lin, Sandra Kübler, Wen Li, and others. Particularly, Ruoze Huang (黄若泽) from Xiamen University/The Chinese University of Hong Kong first suggested this project and has helped in corpus compilation and data analysis. 
 
 Currently we have the following papers, abstracts accepted or in prep.
 
@@ -15,7 +17,9 @@ Currently we have the following papers, abstracts accepted or in prep.
 
 - Lin, Chien-Jer Charles and Hai Hu. (2018). Syntactic Complexity as a Measure of Linguistic Authenticity in Modern Chinese. To present at *The 26th Annual Conference of International Association of Chinese Linguistics (IACL-26) & The 20th International Conference on Chinese Language and Culture (ICCLC-20)*. Madison, Wisconsin, USA.
 
-## Textual Inference Using Monotonicity Calculus and CCG
+## Textual inference
+
+This project uses natural logic to answer textual entailment questions such as: if we know that 'All students party on New Year's Eve' and that 'Most students get drunk in every party', does it follow that 'Most PhD students get drunk on New Year's Eve'? We use monotonicity calculus and Combinatory Categorial Grammar (CCG) to solve these problems. The first paper below describes how we polarize the words and phrases in a sentence; the second paper discusses how our (still-developing) inference system works. For more materials please see this [webpage](https://logicforlanguage.blogspot.com/){:target="_blank"} from Larry.
 
 - Hu, Hai, and Lawrence S. Moss. (2018). Polarity Computations in Flexible Categorial Grammar. In *Proceedings of the 7th Joint Conference on Lexical and Computational Semantics: \*SEM at NAACL 2018*. New Orleans, Louisiana, USA. [paper](http://aclweb.org/anthology/S18-2015){:target="_blank"}. [poster](https://huhailinguist.github.io/projects/starSemPoster.pdf){:target="_blank"}. [code](https://github.com/huhailinguist/ccg2mono){:target="_blank"}.
 
@@ -25,7 +29,7 @@ Currently we have the following papers, abstracts accepted or in prep.
 
 In this project, I'm mainly concerned with the usage of English acronyms such as 'GDP', 'WTO' in Chinese. Many have expressed worries about the "contamination" of Chinese by incoming English acronyms and words, but very few descriptive studies have been done. The following are some of the first attempts to quanfity the degree of acronym usage and possible factors that drive language users to prefer "GDP" rather than "国民生产总值".
 
-- Hu, Hai (to present). English Acronyms in Chinese Texts: Diachronic Change and Synchronic Prediction. In: *Proceedings of 30th North America Conference on Chinese Linguistics*. Columbus, Ohio.
+- Hu, Hai (2018). English Acronyms in Chinese Texts: Diachronic Change and Synchronic Prediction. Presented at *the 30th North America Conference on Chinese Linguistics*. Columbus, Ohio.
 
 - Hu, Hai (2016). Is China entering WTO or *shijie maoyi zuzhi*–A Corpus-based Study of English Acronyms in Chinese Newspapers. In: *Proceedings of 28th North America Conference on Chinese Linguistics*. Provo, Utah. [paper](https://arxiv.org/abs/1711.06895){:target="_blank"}. [abstract](2016_naccl_abstract_hai-hu.pdf){:target="_blank"}.
 
@@ -51,7 +55,9 @@ The segmenter is part of the Free Linguistic Environment at [LINGUIST List](htt
 
 - Cavar, Damir, Lwin Moe, Hai Hu, and Kenneth Steimel. (2016). Preliminary Results from the Free Linguistic Environment Project. In: *Joint 2016 Conference on Head-driven Phrase Structure Grammar and Lexical Functional Grammar (HeadLex 2016)*. Warsaw, Poland. [paper](http://web.stanford.edu/group/cslipublications/cslipublications/HPSG/2016/headlex2016-cmhs.pdf){:target="_blank"}.
 
-## Sentence processing 
+## Sentence processing and relative clauses
+
+- Lin, Chien-Jer Charles, & Hu, Hai. (in press). Linking comprehension and production: Frequency distribution of Chinese relative clauses in the Sinica Treebank. In Chu-Ren Huang, Shukai Hsieh, & Peng Jin (eds.) *Text, Speech, and Language Technology Series*. Springer.
 
 - Zhang, Yiwen, Hu, Hai, & Lin, Chien-Jer Charles. (2018). Nouns and verbs behave differently as fillers: Expectation and interference in constructing long-distance dependencies. Poster presented at the *31st annual CUNY Human Sentence Processing Conference*, Davis, CA. [poster](https://huhailinguist.github.io/projects/2018_zhang_hu_lin_cuny_poster_final.pdf){:target="_blank"}.
 
