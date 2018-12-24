@@ -19,7 +19,9 @@ Currently we have the following papers, abstracts accepted or in prep.
 
 ## Textual inference
 
-This project uses natural logic to answer textual entailment questions such as: if we know that 'All students party on New Year's Eve' and that 'Most students get drunk in every party', does it follow that 'Most PhD students get drunk on New Year's Eve'? We use monotonicity calculus and Combinatory Categorial Grammar (CCG) to solve these problems. The first paper below describes how we polarize the words and phrases in a sentence; the second paper discusses how our (still-developing) inference system works. For more materials please see this [webpage](https://logicforlanguage.blogspot.com/){:target="_blank"} from Larry.
+This project uses natural logic to answer textual entailment questions such as: if we know that 'All students party on New Year's Eve' and that 'Most students get drunk in every party', does it follow that 'Most PhD students get drunk on New Year's Eve'? We use monotonicity calculus and Combinatory Categorial Grammar (CCG) to solve these problems. 
+
+The first paper below describes how we polarize the words and phrases in a sentence; the second paper discusses how our (still-developing) inference system works. For more materials please see this [webpage](https://logicforlanguage.blogspot.com/){:target="_blank"} from Larry.
 
 - Hu, Hai, and Lawrence S. Moss. (2018). Polarity Computations in Flexible Categorial Grammar. In *Proceedings of the 7th Joint Conference on Lexical and Computational Semantics: \*SEM at NAACL 2018*. New Orleans, Louisiana, USA. [paper](http://aclweb.org/anthology/S18-2015){:target="_blank"}. [poster](https://huhailinguist.github.io/projects/starSemPoster.pdf){:target="_blank"}. [code](https://github.com/huhailinguist/ccg2mono){:target="_blank"}.
 
