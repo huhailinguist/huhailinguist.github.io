@@ -17,7 +17,7 @@ Currently we have the following papers, abstracts accepted or in prep.
 
 - Lin, Chien-Jer Charles and Hai Hu. (2018). Syntactic Complexity as a Measure of Linguistic Authenticity in Modern Chinese. To present at *The 26th Annual Conference of International Association of Chinese Linguistics (IACL-26) & The 20th International Conference on Chinese Language and Culture (ICCLC-20)*. Madison, Wisconsin, USA.
 
-## Textual inference
+## Natural language inference
 
 This project uses natural logic to answer textual entailment questions such as: if we know that 'All students party on New Year's Eve' and that 'Most students get drunk in every party', does it follow that 'Most PhD students get drunk on New Year's Eve'? We use monotonicity calculus and Combinatory Categorial Grammar (CCG) to solve these problems. 
 
