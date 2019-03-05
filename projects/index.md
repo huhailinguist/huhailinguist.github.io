@@ -21,7 +21,7 @@ Currently we have the following papers, abstracts accepted or in prep.
 
 This project uses natural logic to answer textual entailment questions such as: if we know that 'All students party on New Year's Eve' and that 'Most students get drunk in every party', does it follow that 'Most PhD students get drunk on New Year's Eve'? We use monotonicity calculus and Combinatory Categorial Grammar (CCG) to solve these problems. 
 
-The second paper below describes how we polarize the words and phrases in a sentence; the third paper discusses how our (still-developing) inference system works. For more materials please see this [webpage](https://logicforlanguage.blogspot.com/){:target="_blank"} from Larry.
+The second paper below describes how we polarize the words and phrases in a sentence; the third paper discusses how our (still-developing) inference system works. For more materials please see this [webpage](https://logicforlanguage.blogspot.com/){:target="_blank"} from Larry. Or check out this cool 3-min [video](https://www.youtube.com/watch?v=-zBPHuBGZAE&feature=youtu.be){:target="_blank"} made by Larry.
 
 - Hu, Hai, Qi Chen and Larry Moss. (2019). Natural Language Inference with Monotonicity. In *Proceedings of the 13th International Conference on Computational Semantics (IWCS 2019)*. Gothenburg, Sweden.
 
