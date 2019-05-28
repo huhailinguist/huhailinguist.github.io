@@ -23,7 +23,7 @@ This project uses natural logic to answer textual entailment questions such as: 
 
 The second paper below describes how we polarize the words and phrases in a sentence; the third paper discusses how our (still-developing) inference system works. For more materials please see this [webpage](https://logicforlanguage.blogspot.com/){:target="_blank"} from Larry. Or check out this cool 3-min [video](https://www.youtube.com/watch?v=-zBPHuBGZAE&feature=youtu.be){:target="_blank"} made by Larry.
 
-- Hu, Hai, Qi Chen and Larry Moss. (2019). Natural Language Inference with Monotonicity. In *Proceedings of the 13th International Conference on Computational Semantics (IWCS 2019)*. Gothenburg, Sweden.
+- Hu, Hai, Qi Chen and Larry Moss. (2019). Natural Language Inference with Monotonicity. In *Proceedings of the 13th International Conference on Computational Semantics (IWCS 2019)*. Gothenburg, Sweden. [paper](https://www.aclweb.org/anthology/W19-0502){:target="_blank"}.
 
 - Hu, Hai, and Lawrence S. Moss. (2018). Polarity Computations in Flexible Categorial Grammar. In *Proceedings of the 7th Joint Conference on Lexical and Computational Semantics: \*SEM at NAACL 2018*. New Orleans, Louisiana, USA. [paper](http://aclweb.org/anthology/S18-2015){:target="_blank"}. [poster](https://huhailinguist.github.io/projects/starSemPoster.pdf){:target="_blank"}. [code](https://github.com/huhailinguist/ccg2mono){:target="_blank"}.
 
