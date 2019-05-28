@@ -17,6 +17,10 @@ Currently we have the following papers, abstracts accepted or in prep.
 
 - Lin, Chien-Jer Charles and Hai Hu. (2018). Syntactic Complexity as a Measure of Linguistic Authenticity in Modern Chinese. To present at *The 26th Annual Conference of International Association of Chinese Linguistics (IACL-26) & The 20th International Conference on Chinese Language and Culture (ICCLC-20)*. Madison, Wisconsin, USA.
 
+Another paper related to stylistics of the Chinese language, which is a report of the IUCL system in the VarDial 2019 campaign that aims to automatically distinguish Mainland news and Taiwanese news. Our system ranked 1st and 2nd on two tracks respectively. 
+
+- Hu, Hai, Wen Li, He Zhou, Zuoyu Tian, Yiwen Zhang and Liang Zou. (2019). Ensemble Methods to Distinguish Mainland and Taiwan Chinese. In *Proceedings of the Sixth Workshop on NLP for Similar Languages, Varieties and Dialects at NAACL 2019*. Minneapolis, MN, USA. [paper](http://web.science.mq.edu.au/~smalmasi/vardial6/pdf/W19-1417.pdf){:target="_blank"}.
+
 ## Natural language inference
 
 This project uses natural logic to answer textual entailment questions such as: if we know that 'All students party on New Year's Eve' and that 'Most students get drunk in every party', does it follow that 'Most PhD students get drunk on New Year's Eve'? We use monotonicity calculus and Combinatory Categorial Grammar (CCG) to solve these problems. 
