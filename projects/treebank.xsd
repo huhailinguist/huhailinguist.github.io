@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified"> 
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" elementFormDefault="qualified"> 
     
     <xs:element name="note" type="containertype"/>
-    
+        
     <xs:complexType name="containertype">
-        <xs:sequence>
-            <xs:element name="ROOT" type="roottype"/>
-        </xs:sequence>
+        <xs:choice maxOccurs="unbounded">
+            <xs:element name="ROOT" type="roottype"/>   
+        </xs:choice>
+        <xs:attribute name="noNamespaceSchemaLocation" type="xs:string" use="optional" form="qualified"/>
     </xs:complexType>
     
     <xs:complexType name="roottype">
-        <xs:sequence>
+        <xs:choice maxOccurs="unbounded">
             <xs:element name="ADJP" type="ADJPtype"/>
             <xs:element name="ADVP" type="ADVPtype"/>
             <xs:element name="CLP" type="CLPtype"/>
@@ -38,11 +39,11 @@
             <xs:element name="VSB" type="VSBtype"/>
             <xs:element name="WHNP" type="WHNPtype"/>
             <xs:element name="WHPP" type="WHPPtype"/>
-        </xs:sequence>
+        </xs:choice>
     </xs:complexType>
     
     <xs:complexType name="ADJPtype">
-        <xs:sequence>
+        <xs:choice maxOccurs="unbounded">
             <xs:element name="NP" type="NPtype"/>
             <xs:element name="JJ" type="stringtype"/>
             <xs:element name="ADJP" type="ADJPtype"/>
@@ -52,11 +53,11 @@
             <xs:element name="AD" type="stringtype"/>
             <xs:element name="ADVP" type="ADVPtype"/>
             <xs:element name="CC" type="stringtype"/>
-        </xs:sequence>
+        </xs:choice>
     </xs:complexType>
     
     <xs:complexType name="ADVPtype">
-        <xs:sequence>
+        <xs:choice maxOccurs="unbounded">
             <xs:element name="PU" type="stringtype"/>
             <xs:element name="CS" type="stringtype"/>
             <xs:element name="NN" type="stringtype"/>
@@ -65,11 +66,11 @@
             <xs:element name="ADVP" type="ADVPtype"/>
             <xs:element name="CC" type="stringtype"/>
             <xs:element name="VV" type="stringtype"/>
-        </xs:sequence>
+        </xs:choice>
     </xs:complexType>
     
     <xs:complexType name="CLPtype">
-        <xs:sequence>
+        <xs:choice maxOccurs="unbounded">
             <xs:element name="NP" type="NPtype"/>
             <xs:element name="LC" type="stringtype"/>
             <xs:element name="JJ" type="stringtype"/>
@@ -77,11 +78,11 @@
             <xs:element name="CLP" type="CLPtype"/>
             <xs:element name="ADJP" type="ADJPtype"/>
             <xs:element name="NONE" type="stringtype"/>
-        </xs:sequence>
+        </xs:choice>
     </xs:complexType>
     
     <xs:complexType name="CPtype">
-        <xs:sequence>
+        <xs:choice maxOccurs="unbounded">
             <xs:element name="IP" type="IPtype"/>
             <xs:element name="NP" type="NPtype"/>
             <xs:element name="PU" type="stringtype"/>
@@ -92,12 +93,11 @@
             <xs:element name="CP" type="CPtype"/>
             <xs:element name="SP" type="stringtype"/>
             <xs:element name="ADVP" type="ADVPtype"/>
-        </xs:sequence>
+        </xs:choice>
     </xs:complexType>
-    
-    
+   
     <xs:complexType name="DNPtype">
-        <xs:sequence>
+        <xs:choice maxOccurs="unbounded">
             <xs:element name="NP" type="NPtype"/>
             <xs:element name="DNP" type="DNPtype"/>
             <xs:element name="UCP" type="UCPtype"/>
@@ -110,11 +110,11 @@
             <xs:element name="DP" type="DPtype"/>
             <xs:element name="PP" type="PPtype"/>
             <xs:element name="ADJP" type="ADJPtype"/>
-        </xs:sequence>
+        </xs:choice>
     </xs:complexType>
     
     <xs:complexType name="DPtype">
-        <xs:sequence>
+        <xs:choice maxOccurs="unbounded">
             <xs:element name="NP" type="NPtype"/>
             <xs:element name="CP" type="CPtype"/>
             <xs:element name="QP" type="QPtype"/>
@@ -124,11 +124,11 @@
             <xs:element name="DEG" type="stringtype"/>
             <xs:element name="DP" type="DPtype"/>
             <xs:element name="ADVP" type="ADVPtype"/>
-        </xs:sequence>
+        </xs:choice>
     </xs:complexType>
     
     <xs:complexType name="DVPtype">
-        <xs:sequence>
+        <xs:choice maxOccurs="unbounded">
             <xs:element name="NP" type="NPtype"/>
             <xs:element name="VP" type="VPtype"/>
             <xs:element name="QP" type="QPtype"/>
@@ -136,11 +136,11 @@
             <xs:element name="ADVP" type="ADVPtype"/>
             <xs:element name="AD" type="stringtype"/>
             <xs:element name="DEV" type="stringtype"/>
-        </xs:sequence>
+        </xs:choice>
     </xs:complexType>
     
     <xs:complexType name="FRAGtype">
-        <xs:sequence>
+        <xs:choice maxOccurs="unbounded">
             <xs:element name="NR" type="stringtype"/>
             <xs:element name="PU" type="stringtype"/>
             <xs:element name="ETC" type="stringtype"/>
@@ -154,18 +154,18 @@
             <xs:element name="JJ" type="stringtype"/>
             <xs:element name="CC" type="stringtype"/>
             <xs:element name="VV" type="stringtype"/>
-        </xs:sequence>
+        </xs:choice>
     </xs:complexType>
     
     <xs:complexType name="INTJtype">
-        <xs:sequence>
+        <xs:choice maxOccurs="unbounded">
             <xs:element name="IJ" type="stringtype"/>
             <xs:element name="SP" type="stringtype"/>
-        </xs:sequence>
+        </xs:choice>
     </xs:complexType>
     
     <xs:complexType name="IPtype">
-        <xs:sequence>
+        <xs:choice maxOccurs="unbounded">
             <xs:element name="NP" type="NPtype"/>
             <xs:element name="PU" type="stringtype"/>
             <xs:element name="AS" type="stringtype"/>
@@ -189,11 +189,11 @@
             <xs:element name="VP" type="VPtype"/>
             <xs:element name="PP" type="PPtype"/>
             <xs:element name="INTJ" type="INTJtype"/>
-        </xs:sequence>
+        </xs:choice>
     </xs:complexType>
     
     <xs:complexType name="LCPtype">
-        <xs:sequence>
+        <xs:choice maxOccurs="unbounded">
             <xs:element name="LC" type="stringtype"/>
             <xs:element name="NP" type="NPtype"/>
             <xs:element name="PU" type="stringtype"/>
@@ -208,18 +208,18 @@
             <xs:element name="NONE" type="stringtype"/>
             <xs:element name="CC" type="stringtype"/>
             <xs:element name="IP" type="IPtype"/>
-        </xs:sequence>
+        </xs:choice>
     </xs:complexType>
     
     <xs:complexType name="LSTtype">
-        <xs:sequence>
+        <xs:choice maxOccurs="unbounded">
             <xs:element name="PU" type="stringtype"/>
             <xs:element name="CD" type="stringtype"/>
-        </xs:sequence>
+        </xs:choice>
     </xs:complexType>
     
     <xs:complexType name="NPtype">
-        <xs:sequence>
+        <xs:choice maxOccurs="unbounded">
             <xs:element name="JJ" type="stringtype"/>
             <xs:element name="CLP" type="CLPtype"/>
             <xs:element name="WHNP" type="WHNPtype"/>
@@ -229,7 +229,6 @@
             <xs:element name="ADVP" type="ADVPtype"/>
             <xs:element name="LCP" type="LCPtype"/>
             <xs:element name="ADJP" type="ADJPtype"/>
-            <xs:element name="NR" type="stringtype"/>
             <xs:element name="NONE" type="stringtype"/>
             <xs:element name="NP" type="NPtype"/>
             <xs:element name="NR" type="stringtype"/>
@@ -252,11 +251,11 @@
             <xs:element name="NN" type="stringtype"/>
             <xs:element name="VP" type="VPtype"/>
             <xs:element name="FW" type="stringtype"/>
-        </xs:sequence>
+        </xs:choice>
     </xs:complexType>
     
     <xs:complexType name="PPtype">
-        <xs:sequence>
+        <xs:choice maxOccurs="unbounded">
             <xs:element name="NP" type="NPtype"/>
             <xs:element name="PU" type="stringtype"/>
             <xs:element name="CLP" type="CLPtype"/>
@@ -273,11 +272,11 @@
             <xs:element name="P" type="stringtype"/>
             <xs:element name="QP" type="QPtype"/>
             <xs:element name="PP" type="PPtype"/>
-        </xs:sequence>
+        </xs:choice>
     </xs:complexType>
     
     <xs:complexType name="PRNtype">
-        <xs:sequence>
+        <xs:choice maxOccurs="unbounded">
             <xs:element name="NP" type="NPtype"/>
             <xs:element name="IP" type="IPtype"/>
             <xs:element name="UCP" type="UCPtype"/>
@@ -285,11 +284,11 @@
             <xs:element name="VP" type="VPtype"/>
             <xs:element name="QP" type="QPtype"/>
             <xs:element name="ADJP" type="ADJPtype"/>
-        </xs:sequence>
+        </xs:choice>
     </xs:complexType>
     
     <xs:complexType name="QPtype">
-        <xs:sequence>
+        <xs:choice maxOccurs="unbounded">
             <xs:element name="DNP" type="DNPtype"/>
             <xs:element name="PU" type="stringtype"/>
             <xs:element name="CLP" type="CLPtype"/>
@@ -308,22 +307,22 @@
             <xs:element name="QP" type="QPtype"/>
             <xs:element name="NN" type="stringtype"/>
             <xs:element name="CD" type="stringtype"/>
-        </xs:sequence>
+        </xs:choice>
     </xs:complexType>
     
     <xs:complexType name="Stype">
-        <xs:sequence>
+        <xs:choice maxOccurs="unbounded">
             <xs:element name="CP" type="CPtype"/>
             <xs:element name="NP" type="NPtype"/>
             <xs:element name="QP" type="QPtype"/>
             <xs:element name="PP" type="PPtype"/>
             <xs:element name="FRAG" type="FRAGtype"/>
             <xs:element name="IP" type="IPtype"/>
-        </xs:sequence>
+        </xs:choice>
     </xs:complexType>
     
     <xs:complexType name="UCPtype">
-        <xs:sequence>
+        <xs:choice maxOccurs="unbounded">
             <xs:element name="NP" type="NPtype"/>
             <xs:element name="IP" type="IPtype"/>
             <xs:element name="UCP" type="UCPtype"/>
@@ -336,35 +335,35 @@
             <xs:element name="PP" type="PPtype"/>
             <xs:element name="ADJP" type="ADJPtype"/>
             <xs:element name="CC" type="stringtype"/>
-        </xs:sequence>
+        </xs:choice>
     </xs:complexType>
     
     <xs:complexType name="VCDtype">
-        <xs:sequence>
+        <xs:choice maxOccurs="unbounded">
             <xs:element name="PU" type="stringtype"/>
             <xs:element name="VA" type="stringtype"/>
             <xs:element name="VV" type="stringtype"/>
-        </xs:sequence>
+        </xs:choice>
     </xs:complexType>
     
     <xs:complexType name="VCPtype">
-        <xs:sequence>
+        <xs:choice maxOccurs="unbounded">
             <xs:element name="VC" type="stringtype"/>
             <xs:element name="VA" type="stringtype"/>
             <xs:element name="VV" type="stringtype"/>
-        </xs:sequence>
+        </xs:choice>
     </xs:complexType>
     
     <xs:complexType name="VNVtype">
-        <xs:sequence>
+        <xs:choice maxOccurs="unbounded">
             <xs:element name="VC" type="stringtype"/>
             <xs:element name="VV" type="stringtype"/>
             <xs:element name="AD" type="stringtype"/>
-        </xs:sequence>
+        </xs:choice>
     </xs:complexType>
     
     <xs:complexType name="VPtype">
-        <xs:sequence>
+        <xs:choice maxOccurs="unbounded">
             <xs:element name="SB" type="stringtype"/>
             <xs:element name="AS" type="stringtype"/>
             <xs:element name="VSB" type="VSBtype"/>
@@ -401,46 +400,46 @@
             <xs:element name="UCP" type="UCPtype"/>
             <xs:element name="VP" type="VPtype"/>
             <xs:element name="VNV" type="VNVtype"/>
-        </xs:sequence>
+        </xs:choice>
     </xs:complexType>
     
     <xs:complexType name="VPTtype">
-        <xs:sequence>
+        <xs:choice maxOccurs="unbounded">
             <xs:element name="PU" type="stringtype"/>
             <xs:element name="AD" type="stringtype"/>
             <xs:element name="DER" type="stringtype"/>
             <xs:element name="VA" type="stringtype"/>
             <xs:element name="VV" type="stringtype"/>
-        </xs:sequence>
+        </xs:choice>
     </xs:complexType>
     
     <xs:complexType name="VRDtype">
-        <xs:sequence>
+        <xs:choice maxOccurs="unbounded">
             <xs:element name="NP" type="NPtype"/>
             <xs:element name="VCD" type="VCDtype"/>
             <xs:element name="PU" type="stringtype"/>
             <xs:element name="VA" type="stringtype"/>
             <xs:element name="VV" type="stringtype"/>
-        </xs:sequence>
+        </xs:choice>
     </xs:complexType>
     
     <xs:complexType name="VSBtype">
-        <xs:sequence>
+        <xs:choice maxOccurs="unbounded">
             <xs:element name="VCD" type="VCDtype"/>
             <xs:element name="VV" type="stringtype"/>
-        </xs:sequence>
+        </xs:choice>
     </xs:complexType>
     
     <xs:complexType name="WHNPtype">
-        <xs:sequence>
+        <xs:choice maxOccurs="unbounded">
             <xs:element name="NONE" type="stringtype"/>
-        </xs:sequence>
+        </xs:choice>
     </xs:complexType>
     
     <xs:complexType name="WHPPtype">
-        <xs:sequence>
+        <xs:choice maxOccurs="unbounded">
             <xs:element name="NONE" type="stringtype"/>
-        </xs:sequence>
+        </xs:choice>
     </xs:complexType>
     
     <xs:simpleType name="stringtype">
