@@ -4,6 +4,9 @@
     <xs:element name="note" type="containertype"/>
         
     <xs:complexType name="containertype">
+        <xs:annotation>
+            <xs:documentation>sentence-unit container for individual sentence tree structures</xs:documentation>
+        </xs:annotation>
         <xs:choice maxOccurs="unbounded">
             <xs:element name="ROOT" type="roottype"/>   
         </xs:choice>
@@ -11,6 +14,9 @@
     </xs:complexType>
     
     <xs:complexType name="roottype">
+        <xs:annotation>
+            <xs:documentation>syntactic tags for phrases and verb compounds</xs:documentation>
+        </xs:annotation>
         <xs:choice maxOccurs="unbounded">
             <xs:element name="ADJP" type="ADJPtype"/>
             <xs:element name="ADVP" type="ADVPtype"/>
@@ -19,6 +25,7 @@
             <xs:element name="DNP" type="DNPtype"/>
             <xs:element name="DP" type="DPtype"/>
             <xs:element name="DVP" type="DVPtype"/>
+            <xs:element name="FLR" type="FLRtype"/>
             <xs:element name="FRAG" type="FRAGtype"/>
             <xs:element name="INTJ" type="INTJtype"/>
             <xs:element name="IP" type="IPtype"/>
@@ -43,6 +50,9 @@
     </xs:complexType>
     
     <xs:complexType name="ADJPtype">
+        <xs:annotation>
+            <xs:documentation>adjective phrase</xs:documentation>
+        </xs:annotation>
         <xs:choice maxOccurs="unbounded">
             <xs:element name="NP" type="NPtype"/>
             <xs:element name="JJ" type="stringtype"/>
@@ -55,8 +65,13 @@
             <xs:element name="CC" type="stringtype"/>
         </xs:choice>
     </xs:complexType>
-    
+    <xs:annotation>
+        <xs:documentation></xs:documentation>
+    </xs:annotation>
     <xs:complexType name="ADVPtype">
+        <xs:annotation>
+            <xs:documentation>adverbial phrase headed by AD (adverb)</xs:documentation>
+        </xs:annotation>
         <xs:choice maxOccurs="unbounded">
             <xs:element name="PU" type="stringtype"/>
             <xs:element name="CS" type="stringtype"/>
@@ -70,6 +85,9 @@
     </xs:complexType>
     
     <xs:complexType name="CLPtype">
+        <xs:annotation>
+            <xs:documentation>classifier phrase</xs:documentation>
+        </xs:annotation>
         <xs:choice maxOccurs="unbounded">
             <xs:element name="NP" type="NPtype"/>
             <xs:element name="LC" type="stringtype"/>
@@ -82,6 +100,9 @@
     </xs:complexType>
     
     <xs:complexType name="CPtype">
+        <xs:annotation>
+            <xs:documentation>clause headed by C (complementizer)</xs:documentation>
+        </xs:annotation>
         <xs:choice maxOccurs="unbounded">
             <xs:element name="IP" type="IPtype"/>
             <xs:element name="NP" type="NPtype"/>
@@ -97,6 +118,9 @@
     </xs:complexType>
    
     <xs:complexType name="DNPtype">
+        <xs:annotation>
+            <xs:documentation>phrase formed by "XP + DEG"</xs:documentation>
+        </xs:annotation>
         <xs:choice maxOccurs="unbounded">
             <xs:element name="NP" type="NPtype"/>
             <xs:element name="DNP" type="DNPtype"/>
@@ -114,6 +138,9 @@
     </xs:complexType>
     
     <xs:complexType name="DPtype">
+        <xs:annotation>
+            <xs:documentation>determiner phrase</xs:documentation>
+        </xs:annotation>
         <xs:choice maxOccurs="unbounded">
             <xs:element name="NP" type="NPtype"/>
             <xs:element name="CP" type="CPtype"/>
@@ -128,6 +155,9 @@
     </xs:complexType>
     
     <xs:complexType name="DVPtype">
+        <xs:annotation>
+            <xs:documentation>phrase formed by "XP + DEV"</xs:documentation>
+        </xs:annotation>
         <xs:choice maxOccurs="unbounded">
             <xs:element name="NP" type="NPtype"/>
             <xs:element name="VP" type="VPtype"/>
@@ -139,7 +169,19 @@
         </xs:choice>
     </xs:complexType>
     
+    <xs:complexType name="FLRtype">
+        <xs:annotation>
+            <xs:documentation>filler</xs:documentation>
+        </xs:annotation>
+        <xs:choice maxOccurs="unbounded">
+            <xs:element name="DP" type="DPtype"/>
+        </xs:choice>
+    </xs:complexType>
+    
     <xs:complexType name="FRAGtype">
+        <xs:annotation>
+            <xs:documentation>fragment</xs:documentation>
+        </xs:annotation>
         <xs:choice maxOccurs="unbounded">
             <xs:element name="NR" type="stringtype"/>
             <xs:element name="PU" type="stringtype"/>
@@ -158,6 +200,9 @@
     </xs:complexType>
     
     <xs:complexType name="INTJtype">
+        <xs:annotation>
+            <xs:documentation>interjection</xs:documentation>
+        </xs:annotation>
         <xs:choice maxOccurs="unbounded">
             <xs:element name="IJ" type="stringtype"/>
             <xs:element name="SP" type="stringtype"/>
@@ -165,6 +210,9 @@
     </xs:complexType>
     
     <xs:complexType name="IPtype">
+        <xs:annotation>
+            <xs:documentation>simple clause headed by I (INFL)</xs:documentation>
+        </xs:annotation>
         <xs:choice maxOccurs="unbounded">
             <xs:element name="NP" type="NPtype"/>
             <xs:element name="PU" type="stringtype"/>
@@ -193,6 +241,9 @@
     </xs:complexType>
     
     <xs:complexType name="LCPtype">
+        <xs:annotation>
+            <xs:documentation>phrase formed by "XP + LC"</xs:documentation>
+        </xs:annotation>
         <xs:choice maxOccurs="unbounded">
             <xs:element name="LC" type="stringtype"/>
             <xs:element name="NP" type="NPtype"/>
@@ -212,6 +263,9 @@
     </xs:complexType>
     
     <xs:complexType name="LSTtype">
+        <xs:annotation>
+            <xs:documentation>list marker</xs:documentation>
+        </xs:annotation>
         <xs:choice maxOccurs="unbounded">
             <xs:element name="PU" type="stringtype"/>
             <xs:element name="CD" type="stringtype"/>
@@ -219,6 +273,9 @@
     </xs:complexType>
     
     <xs:complexType name="NPtype">
+        <xs:annotation>
+            <xs:documentation>noun phrase</xs:documentation>
+        </xs:annotation>
         <xs:choice maxOccurs="unbounded">
             <xs:element name="JJ" type="stringtype"/>
             <xs:element name="CLP" type="CLPtype"/>
@@ -255,6 +312,9 @@
     </xs:complexType>
     
     <xs:complexType name="PPtype">
+        <xs:annotation>
+            <xs:documentation>preposition phrase</xs:documentation>
+        </xs:annotation>
         <xs:choice maxOccurs="unbounded">
             <xs:element name="NP" type="NPtype"/>
             <xs:element name="PU" type="stringtype"/>
@@ -276,6 +336,9 @@
     </xs:complexType>
     
     <xs:complexType name="PRNtype">
+        <xs:annotation>
+            <xs:documentation>parenthetical</xs:documentation>
+        </xs:annotation>
         <xs:choice maxOccurs="unbounded">
             <xs:element name="NP" type="NPtype"/>
             <xs:element name="IP" type="IPtype"/>
@@ -288,6 +351,9 @@
     </xs:complexType>
     
     <xs:complexType name="QPtype">
+        <xs:annotation>
+            <xs:documentation>quantifier phrase</xs:documentation>
+        </xs:annotation>
         <xs:choice maxOccurs="unbounded">
             <xs:element name="DNP" type="DNPtype"/>
             <xs:element name="PU" type="stringtype"/>
@@ -311,6 +377,9 @@
     </xs:complexType>
     
     <xs:complexType name="Stype">
+        <xs:annotation>
+            <xs:documentation>sentence</xs:documentation>
+        </xs:annotation>
         <xs:choice maxOccurs="unbounded">
             <xs:element name="CP" type="CPtype"/>
             <xs:element name="NP" type="NPtype"/>
@@ -322,6 +391,9 @@
     </xs:complexType>
     
     <xs:complexType name="UCPtype">
+        <xs:annotation>
+            <xs:documentation>unidentical coordination phrase</xs:documentation>
+        </xs:annotation>
         <xs:choice maxOccurs="unbounded">
             <xs:element name="NP" type="NPtype"/>
             <xs:element name="IP" type="IPtype"/>
@@ -339,6 +411,9 @@
     </xs:complexType>
     
     <xs:complexType name="VCDtype">
+        <xs:annotation>
+            <xs:documentation>coordinated verb compound</xs:documentation>
+        </xs:annotation>
         <xs:choice maxOccurs="unbounded">
             <xs:element name="PU" type="stringtype"/>
             <xs:element name="VA" type="stringtype"/>
@@ -347,6 +422,9 @@
     </xs:complexType>
     
     <xs:complexType name="VCPtype">
+        <xs:annotation>
+            <xs:documentation>verb compounds formed by VV + VC</xs:documentation>
+        </xs:annotation>
         <xs:choice maxOccurs="unbounded">
             <xs:element name="VC" type="stringtype"/>
             <xs:element name="VA" type="stringtype"/>
@@ -355,6 +433,9 @@
     </xs:complexType>
     
     <xs:complexType name="VNVtype">
+        <xs:annotation>
+            <xs:documentation>verb compounds formed by A-not-A or A-one-A</xs:documentation>
+        </xs:annotation>
         <xs:choice maxOccurs="unbounded">
             <xs:element name="VC" type="stringtype"/>
             <xs:element name="VV" type="stringtype"/>
@@ -363,6 +444,9 @@
     </xs:complexType>
     
     <xs:complexType name="VPtype">
+        <xs:annotation>
+            <xs:documentation>verb phrase</xs:documentation>
+        </xs:annotation>
         <xs:choice maxOccurs="unbounded">
             <xs:element name="SB" type="stringtype"/>
             <xs:element name="AS" type="stringtype"/>
@@ -404,6 +488,9 @@
     </xs:complexType>
     
     <xs:complexType name="VPTtype">
+        <xs:annotation>
+            <xs:documentation>potential form V-de-R or V-by-R</xs:documentation>
+        </xs:annotation>
         <xs:choice maxOccurs="unbounded">
             <xs:element name="PU" type="stringtype"/>
             <xs:element name="AD" type="stringtype"/>
@@ -414,6 +501,9 @@
     </xs:complexType>
     
     <xs:complexType name="VRDtype">
+        <xs:annotation>
+            <xs:documentation>verb resultative compound</xs:documentation>
+        </xs:annotation>
         <xs:choice maxOccurs="unbounded">
             <xs:element name="NP" type="NPtype"/>
             <xs:element name="VCD" type="VCDtype"/>
@@ -424,6 +514,9 @@
     </xs:complexType>
     
     <xs:complexType name="VSBtype">
+        <xs:annotation>
+            <xs:documentation>verb compounds formed by a modifier + head</xs:documentation>
+        </xs:annotation>
         <xs:choice maxOccurs="unbounded">
             <xs:element name="VCD" type="VCDtype"/>
             <xs:element name="VV" type="stringtype"/>
@@ -431,18 +524,61 @@
     </xs:complexType>
     
     <xs:complexType name="WHNPtype">
+        <xs:annotation>
+            <xs:documentation>undefined</xs:documentation>
+        </xs:annotation>
         <xs:choice maxOccurs="unbounded">
             <xs:element name="NONE" type="stringtype"/>
         </xs:choice>
     </xs:complexType>
     
     <xs:complexType name="WHPPtype">
+        <xs:annotation>
+            <xs:documentation>undefined</xs:documentation>
+        </xs:annotation>
         <xs:choice maxOccurs="unbounded">
             <xs:element name="NONE" type="stringtype"/>
         </xs:choice>
     </xs:complexType>
     
     <xs:simpleType name="stringtype">
+        <xs:annotation>
+            <xs:documentation>Strings in this schema are part-of-speech tags.
+            AD: adverbs
+            AS: aspect marker
+            BA: 把 in ba-const
+            CC: coordinating conj
+            CD: cardinal numbers
+            CS: subordinating conj
+            DEC: 的 for relative-clause etc.
+            DEG: associative 的
+            DER: 得 in V-de const. and V-de-R
+            DEV: 地 as the head of DVP
+            DT: determiner
+            ETC: tags for 等 and 等等 in coordination phrases
+            FW: foreign words
+            IJ: interjection
+            JJ: noun-modifier other than nouns
+            LB: 被 in long bei-construction
+            LC: localizer
+            M: measure word (including classifiers)
+            MSP: some particles
+            NN: common nouns
+            NONE: none
+            NR: proper nouns
+            NT: temporal nouns
+            OD: ordinal numbers
+            ON: onomatopoeia
+            P: prepositions (excluding 把 and 被)
+            PN: pronouns
+            PU: punctuation
+            SB: 被 in short bei-construction
+            SP: sentence-final particle
+            VA: predicative adjective
+            VC: copula 是
+            VE: 有 as the main verb
+            VV: other verbs</xs:documentation>
+        </xs:annotation>
         <xs:restriction base="xs:string"/>
     </xs:simpleType>
     
