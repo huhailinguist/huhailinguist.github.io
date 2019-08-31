@@ -13,6 +13,8 @@ This is joint work with Chien-Jer Charles Lin, Sandra Kübler, Wen Li, and other
 
 Currently we have the following papers, abstracts accepted or in prep.
 
+- Hu, Hai and Sandra Kübler. (accepted). Investigating Translated Chinese and Its Variants Using Machine Learning. In *Natural Language Engineering (Special Issue: NLP for Similar Languages, Varieties and Dialects)*.
+
 - Hu, Hai, Wen Li, and Sandra Kübler. (2018). Detecting Syntactic Features of Translated Chinese. In *Proceedings of the 2nd Workshop on Stylistic Variation at NAACL 2018*. New Orleans, Louisiana, USA. [paper](http://www.aclweb.org/anthology/W18-1603){:target="_blank"}. [slides](https://huhailinguist.github.io/projects/presentation_naacl_workshop_final.pdf){:target="_blank"}. [video presentation](https://www.youtube.com/watch?v=Q1WgnwIvVZE){:target="_blank"}.
 
 - Lin, Chien-Jer Charles and Hai Hu. (2018). Syntactic Complexity as a Measure of Linguistic Authenticity in Modern Chinese. To present at *The 26th Annual Conference of International Association of Chinese Linguistics (IACL-26) & The 20th International Conference on Chinese Language and Culture (ICCLC-20)*. Madison, Wisconsin, USA.
