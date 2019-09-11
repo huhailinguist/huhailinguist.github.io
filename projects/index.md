@@ -23,7 +23,7 @@ Another paper related to stylistics of the Chinese language, which is a report o
 
 - Hu*, Hai, Wen Li*, He Zhou*, Zuoyu Tian, Yiwen Zhang and Liang Zou. (2019). Ensemble Methods to Distinguish Mainland and Taiwan Chinese. In *Proceedings of the Sixth Workshop on NLP for Similar Languages, Varieties and Dialects at NAACL 2019*. Minneapolis, MN, USA. [paper](http://web.science.mq.edu.au/~smalmasi/vardial6/pdf/W19-1417.pdf){:target="_blank"}.
 
-* equal contributions
+&ast; equal contributions
 
 ## Natural language inference
 
