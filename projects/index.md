@@ -21,7 +21,7 @@ Currently we have the following papers, abstracts accepted or in prep.
 
 Another paper related to stylistics of the Chinese language, which is a report of the IUCL system in the [VarDial](https://sites.google.com/view/vardial2019/campaign?authuser=0){:target="_blank"} 2019 campaign that aims to automatically distinguish Mainland news and Taiwanese news. Our system ranked 1st and 2nd on two tracks respectively. 
 
-- Hu*, Hai, Wen Li*, He Zhou*, Zuoyu Tian, Yiwen Zhang and Liang Zou. (2019). Ensemble Methods to Distinguish Mainland and Taiwan Chinese. In *Proceedings of the Sixth Workshop on NLP for Similar Languages, Varieties and Dialects at NAACL 2019*. Minneapolis, MN, USA. [paper](http://web.science.mq.edu.au/~smalmasi/vardial6/pdf/W19-1417.pdf){:target="_blank"}.
+- Hu\*, Hai, Wen Li\*, He Zhou\*, Zuoyu Tian, Yiwen Zhang and Liang Zou. (2019). Ensemble Methods to Distinguish Mainland and Taiwan Chinese. In *Proceedings of the Sixth Workshop on NLP for Similar Languages, Varieties and Dialects at NAACL 2019*. Minneapolis, MN, USA. [paper](http://web.science.mq.edu.au/~smalmasi/vardial6/pdf/W19-1417.pdf){:target="_blank"}.
 
 \* equal contributions
 
