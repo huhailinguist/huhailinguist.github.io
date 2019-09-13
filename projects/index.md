@@ -53,7 +53,7 @@ A project about the raising of /an/ in the Chengdu dialect of Mandarin. Please s
 
 - Hu, Hai, Aini Li, Yiwen Zhang and Phillip Weirich. (2019). Vowel Raising in the Chengdu Dialect of Mandarin. Poster at *Linguistic Society of America 2019 Annual Meeting*. New York, NY. [abstract](https://www.linguisticsociety.org/abstract/vowel-raising-chengdu-dialect-mandarin-0){:target="_blank"}
 
-- Hu, Hai and Yiwen Zhang. (to appear). Path of Vowel Raising in Chengdu Dialect of Mandarin. 29th North America Conference on Chinese Linguistics. Rutgers, NJ. [paper](https://arxiv.org/abs/1803.03887){:target="_blank"}. [abstract](NACCL29_Hu_IndianaUniv.pdf){:target="_blank"}
+- Hu, Hai and Yiwen Zhang. (2017). Path of Vowel Raising in Chengdu Dialect of Mandarin. In *Proceedings of the 29th North America Conference on Chinese Linguistics*. Rutgers, NJ. [paper](https://arxiv.org/abs/1803.03887){:target="_blank"}. [abstract](NACCL29_Hu_IndianaUniv.pdf){:target="_blank"}
 
 - Zhang, Yiwen and Hai Hu. (2017). Vowel Raising in Chengdu Dialect of Mandarin. Poster presented at *Linguistic Society of America 2017 Annual Meeting*. Austin, TX. [abstract](http://www.linguisticsociety.org/abstract/vowel-raising-chengdu-dialect-mandarin){:target="_blank"}
 
