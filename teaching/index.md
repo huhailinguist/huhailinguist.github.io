@@ -32,5 +32,5 @@ _Additionally_:
 
 _Miscellaneous_:
 
-Correction is usually futile in first language learning, [example](https://huhailinguist.github.io/teaching/pinker_p285.JPG){:target="_blank"}.
+- Correction is usually futile in first language learning, [example](https://huhailinguist.github.io/teaching/pinker_p285.JPG){:target="_blank"}.
 
