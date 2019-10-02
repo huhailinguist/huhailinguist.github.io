@@ -11,7 +11,6 @@ LING-103 Introduction to the study of language, TA
 
 LING-203 Introduction to linguistic analysis, Instructor
 
-Correction is usually futile in first language learning, [example](https://huhailinguist.github.io/teaching/pinker_p285.JPG){:target="_blank"}.
 
 ### Useful Resources
 
@@ -23,7 +22,15 @@ _Phonetics and Phonology_:
 
 - Natural class: here is a very comprehensive [diagram](https://en.wikipedia.org/wiki/File:IPA-euler-manners-features.svg); another [one](https://allthingslinguistic.com/image/33605639325) just for English.
 
-Additionally:
+_Additionally_:
 
 - An excellent website with information on graduate programs, jobs, internships etc. in linguistics: [LINGUIST List](https://linguistlist.org/) 
+
+- FLAS scholarship at IU: [link](https://hls.indiana.edu/student-life/scholarships/flas.html)
+
+> The Foreign Language and Area Studies (FLAS) fellowships are funded by the United States Department of Education in support of graduate and undergraduate students studying less commonly taught languages and cultures, in particular, those considered to be of critical interest to the United States.
+
+_Miscellaneous_:
+
+Correction is usually futile in first language learning, [example](https://huhailinguist.github.io/teaching/pinker_p285.JPG){:target="_blank"}.
 
