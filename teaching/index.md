@@ -13,7 +13,7 @@ LING-203 Introduction to linguistic analysis, Instructor
 
 Correction is usually futile in first language learning, [example](https://huhailinguist.github.io/teaching/pinker_p285.JPG){:target="_blank"}.
 
-**Useful Resources**
+### Useful Resources
 
 _Phonetics and Phonology_:
 
@@ -25,5 +25,5 @@ _Phonetics and Phonology_:
 
 Additionally:
 
-- An excellent website with information on graduate programs, jobs, internships etc. in linguistics: [LINGUISY List](https://linguistlist.org/) 
+- An excellent website with information on graduate programs, jobs, internships etc. in linguistics: [LINGUIST List](https://linguistlist.org/) 
 
