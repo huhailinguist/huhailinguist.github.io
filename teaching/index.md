@@ -22,6 +22,10 @@ _Phonetics and Phonology_:
 
 - Natural class: here is a very comprehensive [diagram](https://en.wikipedia.org/wiki/File:IPA-euler-manners-features.svg); another [one](https://allthingslinguistic.com/image/33605639325) just for English.
 
+- [TypeIPA](https://ipa.typeit.org/): You can type IPA symbols by copy-and-paste into your document.
+
+- [tipa](https://jon.dehdari.org/tutorials/tipachart_mod.pdf): If you use Latex, you can use the tipa package.
+
 _Additionally_:
 
 - An excellent website with information on graduate programs, jobs, internships etc. in linguistics: [LINGUIST List](https://linguistlist.org/) 
