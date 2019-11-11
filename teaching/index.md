@@ -30,6 +30,8 @@ _Morphology and Syntax_:
 
 - Tool for drawing trees: [line](http://ironcreek.net/syntaxtree/).
 
+- Parser and sentence generator: [here](http://parser.duckdns.org/). Thanks to [Ken](https://ksteimel.duckdns.org/) who built this :)
+
 _Additionally_:
 
 - An excellent website with information on graduate programs, jobs, internships etc. in linguistics: [LINGUIST List](https://linguistlist.org/) 
