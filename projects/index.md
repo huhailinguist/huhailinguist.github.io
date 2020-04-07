@@ -13,7 +13,7 @@ This is joint work with Chien-Jer Charles Lin, Sandra Kübler, Wen Li, and other
 
 Currently we have the following papers, abstracts accepted or in prep.
 
-- Hu, Hai and Sandra Kübler. (accepted). Investigating Translated Chinese and Its Variants Using Machine Learning. In *Natural Language Engineering (Special Issue: NLP for Similar Languages, Varieties and Dialects)*.
+- Hu, Hai and Sandra Kübler. (2020). Investigating Translated Chinese and Its Variants Using Machine Learning. In *Natural Language Engineering (Special Issue: NLP for Similar Languages, Varieties and Dialects)*. [paper](http://dx.doi.org/10.1017/S1351324920000182){:target="_blank"}. [code](https://github.com/huhailinguist/translationese){:target="_blank"}.
 
 - Hu, Hai, Wen Li, and Sandra Kübler. (2018). Detecting Syntactic Features of Translated Chinese. In *Proceedings of the 2nd Workshop on Stylistic Variation at NAACL 2018*, pp. 20-28. New Orleans, Louisiana, USA. [paper](http://www.aclweb.org/anthology/W18-1603){:target="_blank"}. [slides](https://huhailinguist.github.io/projects/presentation_naacl_workshop_final.pdf){:target="_blank"}. [video presentation](https://www.youtube.com/watch?v=Q1WgnwIvVZE){:target="_blank"}.
 
