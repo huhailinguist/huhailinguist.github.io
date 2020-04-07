@@ -31,7 +31,7 @@ This project uses natural logic to answer textual entailment questions such as: 
 
 The \*SEM paper below describes how we polarize the words and phrases in a sentence; the IWCS paper discusses how our (still-developing) inference system works. For more materials please see this [webpage](https://logicforlanguage.blogspot.com/){:target="_blank"} from Larry. Or check out this cool 3-min [video](https://www.youtube.com/watch?v=-zBPHuBGZAE&feature=youtu.be){:target="_blank"} made by Larry.
 
-- Richardson, Kyle, Hai Hu, Lawrence S. Moss, and Ashish Sabharwal. (2020). Probing Natural Language Inference Models through Semantic Fragments. In: *Proceedings of the Thirty-Fourth AAAI Conference on Artificial Intelligence*. [paper](https://arxiv.org/abs/1909.07521){:target="_blank"}.
+- Richardson, Kyle, Hai Hu, Lawrence S. Moss, and Ashish Sabharwal. (2020). Probing Natural Language Inference Models through Semantic Fragments. In: *Proceedings of the Thirty-Fourth AAAI Conference on Artificial Intelligence*. [paper](https://arxiv.org/abs/1909.07521){:target="_blank"}. [code](https://github.com/yakazimir/semantic_fragments){:target="_blank"}.
 
 - Hu, Hai, Qi Chen, Kyle Richardson, Atreyee Mukherjee, Lawrence S Moss, and Sandra Kuebler. (2020). MonaLog: a Lightweight System for Natural Language Inference Based on Monotonicity. In: *Proceedings of the Society for Computation in Linguistics 2020*. [paper](https://scholarworks.umass.edu/scil/vol3/iss1/31/){:target="_blank"}. [poster](https://huhailinguist.github.io/projects/monalog_poster.pdf){:target="_blank"}.
 
