@@ -5,5 +5,5 @@ title: Conferences
 
 ## Conferences
 
-NAtural LOgic Meets MAchine Learning ((NALOMA)[https://typo.uni-konstanz.de/naloma20/])
+NAtural LOgic Meets MAchine Learning ([NALOMA](https://typo.uni-konstanz.de/naloma20/))
 
