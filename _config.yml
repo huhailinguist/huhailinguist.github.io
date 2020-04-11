@@ -23,3 +23,6 @@ version:          1.0
 
 github:
   repo:           https://github.com/huhailinguist/
+  
+# Google Analytics
+google_analytics: UA-163396355-1
