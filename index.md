@@ -8,7 +8,7 @@ title: Homepage of Hai Hu
 My name is 胡 (Hu) 海 (Hai), but in English people say it in the reverse way, which sounds more like: Hi! Who?
  
  
-<img src="/photos/photo2.jpg" style="width: 160px; float: left; margin: 0px 15px 15px 0px;" />
+<img src="/photos/photo2.jpg" style="width: 180px; float: left; margin: 0px 15px 15px 0px;" />
  
 I’m a Ph.D. student in (Computational) Linguistics at [Indiana University Bloomington](http://www.indiana.edu/~lingdept/){:target="_blank"}. Before coming to IU, I finished my BA in English and MA in English linguistics at [Renmin University of China](http://www.ruc.edu.cn/){:target="_blank"}. I was also very lucky to spend one year at [Universität Tübingen](https://uni-tuebingen.de/en/university.html){:target="_blank"} as an exchange student and learned some [Schwäbisch](https://www.schwaebisch-schwaetza.de/schwaebisch_woerterbuch.html){:target="_blank"} German :)
 
