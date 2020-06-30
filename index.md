@@ -14,6 +14,6 @@ I’m a Ph.D. student in (Computational) Linguistics at [Indiana University Bloo
 
 Chengdu is my hometown, which is also home to pandas, hot pot and all kinds of spicy and non-spicy food.
  
-My research interests: natural language inference, Chinese linguistics, segmentation and parsing, stylistic properties of translations. See my [Publication & presentations](projects/) / ]Google Scholar](https://scholar.google.com/citations?user=G2RN6qMAAAAJ&hl=en) page for papers and more information. 
+My research interests: natural language inference, Chinese linguistics, segmentation and parsing, stylistic properties of translations. See my [Publication & presentations](projects/) / [Google Scholar](https://scholar.google.com/citations?user=G2RN6qMAAAAJ&hl=en) page for papers and more information. 
 
 email: huhai at indiana.edu
