@@ -235,11 +235,11 @@ img {
 }
 
 /* https://github.com/jekyll/jemoji/issues/24 */
+/*height: 1em;
+    width: 1em;
+    margin-bottom: 0.25em; */
 img.emoji {
     display: inline;
-    height: 1em;
-    width: 1em;
-    margin-bottom: 0.25em;
 }
 
 /* Tables */
