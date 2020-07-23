@@ -27,6 +27,7 @@ github:
 # Google Analytics
 google_analytics: UA-163396355-1
 
+# https://github.com/jekyll/jemoji
 plugins:
   - jemoji
 
