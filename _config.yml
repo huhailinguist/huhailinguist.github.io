@@ -16,7 +16,7 @@ author:
   url:            https://twitter.com/mdo
 
 paginate:         5
-gems:             [jekyll-gist]
+gems:             [jekyll-gist, jemoji]
 
 # Custom vars
 version:          1.0
@@ -28,6 +28,6 @@ github:
 google_analytics: UA-163396355-1
 
 # https://github.com/jekyll/jemoji
-plugins:
-  - jemoji
+# plugins:
+#   - jemoji
 
