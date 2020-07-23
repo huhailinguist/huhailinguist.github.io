@@ -234,6 +234,7 @@ img {
   border-radius: 5px;
 }
 
+/* https://github.com/jekyll/jemoji/issues/24 */
 img.emoji {
     display: inline;
     height: 1em;
