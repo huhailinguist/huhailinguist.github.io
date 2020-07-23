@@ -240,6 +240,9 @@ img {
     margin-bottom: 0.25em; */
 img.emoji {
     display: inline;
+    height: 1em;
+    width: 1em;
+    margin-bottom: 0.05em;
 }
 
 /* Tables */
