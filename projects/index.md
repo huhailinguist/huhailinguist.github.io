@@ -3,7 +3,7 @@ layout: page
 title:  Publications & presentations
 ---
 
-Here are some publications and presentations, grouped by topic. :+1: emoji
+Here are some publications and presentations, grouped by topic.
 
 ## Stylistic features of original and translated Chinese
 
