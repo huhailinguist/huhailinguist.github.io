@@ -175,6 +175,13 @@ table.sortable thead {
     background: white;
 }
 
+img.emoji {
+    display: inline;
+    height: 1em;
+    width: 1em;
+    margin-bottom: 0.25em;
+}
+
 #clustrmaps-widget{
 	display: none;
 }
