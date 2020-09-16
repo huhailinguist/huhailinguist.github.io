@@ -19,11 +19,20 @@ Currently we have the following papers, abstracts accepted or in prep.
 
 - Lin, Chien-Jer Charles and Hai Hu. (2018). Syntactic Complexity as a Measure of Linguistic Authenticity in Modern Chinese. To present at *The 26th Annual Conference of International Association of Chinese Linguistics (IACL-26) & The 20th International Conference on Chinese Language and Culture (ICCLC-20)*. Madison, Wisconsin, USA.
 
-Another paper related to stylistics of the Chinese language, which is a report of the IUCL system in the [VarDial](https://sites.google.com/view/vardial2019/campaign?authuser=0){:target="_blank"} 2019 campaign that aims to automatically distinguish Mainland news and Taiwanese news. Our system ranked **1st** and **2nd** on two tracks respectively. 
+## Other projects involving text features (of English/Chinese)
+
+Paper about lexical, syntactic variations and stylistics of the Chinese language, which is a report of the IUCL system in the [VarDial](https://sites.google.com/view/vardial2019/campaign?authuser=0){:target="_blank"} 2019 campaign that aims to automatically distinguish Mainland news and Taiwanese news. Our system ranked **1st** and **2nd** on two tracks respectively. 
 
 - Hu\*, Hai, Wen Li\*, He Zhou\*, Zuoyu Tian, Yiwen Zhang and Liang Zou. (2019). Ensemble Methods to Distinguish Mainland and Taiwan Chinese. In *Proceedings of the Sixth Workshop on NLP for Similar Languages, Varieties and Dialects at NAACL 2019*, pp. 165–171. Minneapolis, MN, USA. [paper](http://web.science.mq.edu.au/~smalmasi/vardial6/pdf/W19-1417.pdf){:target="_blank"}.
 
 \* equal contributions
+
+Using computational lingusitics techniques to analyze business text: 
+
+- Shen, Peng, Vivek Astvansh, Hai Hu. (Resubmitted). *Organizational learning during product failure*.
+
+Current Version: Sept. 6, 2020 (Major Revision at *Journal of Operations Management*). See Peng's [page](https://sites.google.com/view/pengshen/research){:target="_blank"} for more information. 
+
 
 ## Natural language inference
 
@@ -31,7 +40,7 @@ This project uses natural logic to answer textual entailment questions such as: 
 
 The \*SEM paper below describes how we polarize the words and phrases in a sentence; the IWCS paper discusses how our (still-developing) inference system works. For more materials please see this [webpage](https://logicforlanguage.blogspot.com/){:target="_blank"} from Larry. Or check out this cool 3-min [video](https://www.youtube.com/watch?v=-zBPHuBGZAE&feature=youtu.be){:target="_blank"} made by Larry.
 
-- Richardson, Kyle, Hai Hu, Lawrence S. Moss, and Ashish Sabharwal. (2020). Probing Natural Language Inference Models through Semantic Fragments. In: *Proceedings of the Thirty-Fourth AAAI Conference on Artificial Intelligence*. [paper](https://arxiv.org/abs/1909.07521){:target="_blank"}. [code](https://github.com/yakazimir/semantic_fragments){:target="_blank"}.
+- Richardson, Kyle, Hai Hu, Larry Moss, and Ashish Sabharwal. (2020). Probing Natural Language Inference Models through Semantic Fragments. In: *Proceedings of the Thirty-Fourth AAAI Conference on Artificial Intelligence*. [paper](https://arxiv.org/abs/1909.07521){:target="_blank"}. [code](https://github.com/yakazimir/semantic_fragments){:target="_blank"}.
 
 - Hu, Hai, Qi Chen, Kyle Richardson, Atreyee Mukherjee, Lawrence S Moss, and Sandra Kuebler. (2020). MonaLog: a Lightweight System for Natural Language Inference Based on Monotonicity. In: *Proceedings of the Society for Computation in Linguistics 2020*. [paper](https://scholarworks.umass.edu/scil/vol3/iss1/31/){:target="_blank"}. [poster](https://huhailinguist.github.io/projects/monalog_poster.pdf){:target="_blank"}.
 
