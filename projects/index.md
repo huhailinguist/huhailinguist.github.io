@@ -52,6 +52,16 @@ The \*SEM paper below describes how we polarize the words and phrases in a sente
 
 - Hu, Hai, Thomas Icard and Larry Moss. (2018). Automated Reasoning from Polarized Parse Trees. In *Proceedings of the Fifth Workshop on Natural Language and Computer Science*. Oxford, England. [paper](https://easychair.org/publications/preprint/xJmn){:target="_blank"}.
 
+## Natural Language Understanding
+
+We built the first comprehensive NLU benchmark for Chinese: [CLUE](https://www.cluebenchmarks.com/){:target="_blank"} (github [page](https://github.com/CLUEbenchmark/CLUE){:target="_blank"})
+
+- Xu, Liang, Hai Hu, Xuanwei Zhang, Lu Li, Chenjie Cao, Yudong Li, Yechen Xu, KaiSun, Dian Yu, Cong Yu, Yin Tian, Qianqian Dong, Weitang Liu, Bo Shi, Yiming Cui, Junyi Li, Jun Zeng, Rongzhao Wang, Weijian Xie, Yanting Li, Yina Patterson, ZuoyuTian, Yiwen Zhang, He Zhou, Shaoweihua Liu, Zhe Zhao, Qipeng Zhao, Cong Yue, XinruiZhang, Zhengliang Yang, Kyle Richardson, and Zhenzhong Lan (2020). CLUE: AChinese Language Understanding Evaluation Benchmark. In *Proceedings ofthe 28th International Conference on Computational Linguistics (COLING)*. (accepted).
+
+We held a share-task to test light-weight models for Chinese NLU.
+
+- Li, Junyi, Hai Hu, Xuanwei Zhang, Minglei Li, Lu Li, and Liang Xu (2020). LightPre-trained Chinese Language Model for NLP Tasks. In *Proceedings of NLPCC2020*. (accepted).
+
 ## Usage of English acronyms in Chinese text
 
 In this project, I'm mainly concerned with the usage of English acronyms such as 'GDP', 'WTO' in Chinese. Many have expressed worries about the "contamination" of Chinese by incoming English acronyms and words, but very few descriptive studies have been done. The following are some of the first attempts to quanfity the degree of acronym usage and possible factors that drive language users to prefer "GDP" rather than "国民生产总值".
