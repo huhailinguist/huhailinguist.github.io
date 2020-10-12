@@ -13,6 +13,8 @@ This is joint work with Chien-Jer Charles Lin, Sandra Kübler, Wen Li, and other
 
 Currently we have the following papers, abstracts accepted or in prep.
 
+- Hu, Hai, Yanting Li, Yina Patterson, Zuoyu Tian, Yiwen Zhang, He Zhou, Sandra Kübler, and Chien-Jer Charles Lin (2020). “Building a Literary Treebank for TranslationStudies in Chinese”. In: *Proceedings of 19th International Workshop on Treebanks andLinguistic Theories (TLT)*. (accepted)
+
 - Hu, Hai and Sandra Kübler. (2020). Investigating Translated Chinese and Its Variants Using Machine Learning. In *Natural Language Engineering (Special Issue: NLP for Similar Languages, Varieties and Dialects)*. [paper](http://dx.doi.org/10.1017/S1351324920000182){:target="_blank"}. [code](https://github.com/huhailinguist/translationese){:target="_blank"}.
 
 - Hu, Hai, Wen Li, and Sandra Kübler. (2018). Detecting Syntactic Features of Translated Chinese. In *Proceedings of the 2nd Workshop on Stylistic Variation at NAACL 2018*, pp. 20-28. New Orleans, Louisiana, USA. [paper](http://www.aclweb.org/anthology/W18-1603){:target="_blank"}. [slides](https://huhailinguist.github.io/projects/presentation_naacl_workshop_final.pdf){:target="_blank"}. [video presentation](https://www.youtube.com/watch?v=Q1WgnwIvVZE){:target="_blank"}.
@@ -56,11 +58,11 @@ The \*SEM paper below describes how we polarize the words and phrases in a sente
 
 We built the first comprehensive NLU benchmark for Chinese: [CLUE](https://www.cluebenchmarks.com/){:target="_blank"} (github [page](https://github.com/CLUEbenchmark/CLUE){:target="_blank"})
 
-- Xu, Liang, Hai Hu, Xuanwei Zhang, Lu Li, Chenjie Cao, Yudong Li, Yechen Xu, KaiSun, Dian Yu, Cong Yu, Yin Tian, Qianqian Dong, Weitang Liu, Bo Shi, Yiming Cui, Junyi Li, Jun Zeng, Rongzhao Wang, Weijian Xie, Yanting Li, Yina Patterson, ZuoyuTian, Yiwen Zhang, He Zhou, Shaoweihua Liu, Zhe Zhao, Qipeng Zhao, Cong Yue, XinruiZhang, Zhengliang Yang, Kyle Richardson, and Zhenzhong Lan (2020). CLUE: AChinese Language Understanding Evaluation Benchmark. In *Proceedings ofthe 28th International Conference on Computational Linguistics (COLING)*. (accepted).
+- Xu, Liang, Hai Hu, Xuanwei Zhang, Lu Li, Chenjie Cao, Yudong Li, Yechen Xu, Kai Sun, Dian Yu, Cong Yu, Yin Tian, Qianqian Dong, Weitang Liu, Bo Shi, Yiming Cui, Junyi Li, Jun Zeng, Rongzhao Wang, Weijian Xie, Yanting Li, Yina Patterson, Zuoyu Tian, Yiwen Zhang, He Zhou, Shaoweihua Liu, Zhe Zhao, Qipeng Zhao, Cong Yue, Xinrui Zhang, Zhengliang Yang, Kyle Richardson, and Zhenzhong Lan (2020). CLUE: A Chinese Language Understanding Evaluation Benchmark. In *Proceedings ofthe 28th International Conference on Computational Linguistics (COLING)*. (accepted).
 
 We held a share-task to test light-weight models for Chinese NLU.
 
-- Li, Junyi, Hai Hu, Xuanwei Zhang, Minglei Li, Lu Li, and Liang Xu (2020). LightPre-trained Chinese Language Model for NLP Tasks. In *Proceedings of NLPCC2020*. (accepted).
+- Li, Junyi, Hai Hu, Xuanwei Zhang, Minglei Li, Lu Li, and Liang Xu. "Light Pre-Trained Chinese Language Model for NLP Tasks." In *CCF International Conference on Natural Language Processing and Chinese Computing*, pp. 567-578. Springer, 2020. [paper](https://link.springer.com/chapter/10.1007/978-3-030-60457-8_47)
 
 ## Usage of English acronyms in Chinese text
 
