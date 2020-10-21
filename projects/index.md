@@ -42,7 +42,7 @@ This project uses natural logic to answer textual entailment questions such as: 
 
 The \*SEM paper below describes how we polarize the words and phrases in a sentence; the IWCS paper discusses how our (still-developing) inference system works. For more materials please see this [webpage](https://logicforlanguage.blogspot.com/){:target="_blank"} from Larry. Or check out this cool 3-min [video](https://www.youtube.com/watch?v=-zBPHuBGZAE&feature=youtu.be){:target="_blank"} made by Larry.
 
-- Hu, Hai, Kyle Richardson, Liang Xu, Lu Li, Sandra Kuebler, and Larry Moss. (2020). OCNLI: Original Chinese Natural Language Inference. In: *Findings of EMNLP*. [paper](https://arxiv.org/abs/2010.05444){:target="_blank"}. [code and data](https://github.com/CLUEbenchmark/OCNLI){:target="_blank"}.
+- Hu, Hai, Kyle Richardson, Liang Xu, Lu Li, Sandra Kuebler, and Larry Moss. (2020). OCNLI: Original Chinese Natural Language Inference. In: *Findings of EMNLP*. [paper](https://arxiv.org/abs/2010.05444){:target="_blank"}. [code and data](https://github.com/CLUEbenchmark/OCNLI){:target="_blank"}. [leaderboard](https://www.cluebenchmarks.com/nli.html){:target="_blank"}.
 
 - Richardson, Kyle, Hai Hu, Larry Moss, and Ashish Sabharwal. (2020). Probing Natural Language Inference Models through Semantic Fragments. In: *Proceedings of the Thirty-Fourth AAAI Conference on Artificial Intelligence*. [paper](https://arxiv.org/abs/1909.07521){:target="_blank"}. [code and data](https://github.com/yakazimir/semantic_fragments){:target="_blank"}.
 
