@@ -13,7 +13,7 @@ This is joint work with Chien-Jer Charles Lin, Sandra Kübler, Wen Li, and other
 
 Currently we have the following papers, abstracts accepted or in prep.
 
-- Hu, Hai, Yanting Li, Yina Patterson, Zuoyu Tian, Yiwen Zhang, He Zhou, Sandra Kübler, and Chien-Jer Charles Lin (2020). “Building a Literary Treebank for  Translation Studies in Chinese”. In: *Proceedings of 19th International Workshop on Treebanks and Linguistic Theories (TLT)*. (accepted)
+- Hu, Hai, Yanting Li, Yina Patterson, Zuoyu Tian, Yiwen Zhang, He Zhou, Sandra Kübler, and Chien-Jer Charles Lin (2020). “Building a Literary Treebank for  Translation Studies in Chinese”. In: *Proceedings of 19th International Workshop on Treebanks and Linguistic Theories (TLT)*. [paper](https://www.aclweb.org/anthology/2020.tlt-1.2.pdf){:target="_blank"}.
 
 - Hu, Hai and Sandra Kübler. (2020). Investigating Translated Chinese and Its Variants Using Machine Learning. In *Natural Language Engineering (Special Issue: NLP for Similar Languages, Varieties and Dialects)*. [paper](http://dx.doi.org/10.1017/S1351324920000182){:target="_blank"}. [code](https://github.com/huhailinguist/translationese){:target="_blank"}.
 
