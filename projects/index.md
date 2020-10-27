@@ -13,9 +13,9 @@ This is joint work with Chien-Jer Charles Lin, Sandra Kübler, Wen Li, and other
 
 Currently we have the following papers, abstracts accepted or in prep.
 
-- Hu, Hai, Yanting Li, Yina Patterson, Zuoyu Tian, Yiwen Zhang, He Zhou, Sandra Kübler, and Chien-Jer Charles Lin (2020). “Building a Literary Treebank for  Translation Studies in Chinese”. In: *Proceedings of 19th International Workshop on Treebanks and Linguistic Theories (TLT)*. [paper](https://www.aclweb.org/anthology/2020.tlt-1.2.pdf){:target="_blank"}.
+- Hu, Hai, Yanting Li, Yina Patterson, Zuoyu Tian, Yiwen Zhang, He Zhou, Sandra Kübler, and Chien-Jer Charles Lin (2020). “Building a Literary Treebank for  Translation Studies in Chinese”. In: *Proceedings of 19th International Workshop on Treebanks and Linguistic Theories (TLT)*. pp. 18-31. [paper](https://www.aclweb.org/anthology/2020.tlt-1.2.pdf){:target="_blank"}.
 
-- Hu, Hai and Sandra Kübler. (2020). Investigating Translated Chinese and Its Variants Using Machine Learning. In *Natural Language Engineering (Special Issue: NLP for Similar Languages, Varieties and Dialects)*. [paper](http://dx.doi.org/10.1017/S1351324920000182){:target="_blank"}. [code](https://github.com/huhailinguist/translationese){:target="_blank"}.
+- Hu, Hai and Sandra Kübler. (2020). Investigating Translated Chinese and Its Variants Using Machine Learning. In *Natural Language Engineering (Special Issue: NLP for Similar Languages, Varieties and Dialects)*. pp. 1-34. [paper](http://dx.doi.org/10.1017/S1351324920000182){:target="_blank"}. [code](https://github.com/huhailinguist/translationese){:target="_blank"}.
 
 - Hu, Hai, Wen Li, and Sandra Kübler. (2018). Detecting Syntactic Features of Translated Chinese. In *Proceedings of the 2nd Workshop on Stylistic Variation at NAACL 2018*, pp. 20-28. New Orleans, Louisiana, USA. [paper](http://www.aclweb.org/anthology/W18-1603){:target="_blank"}. [slides](https://huhailinguist.github.io/projects/presentation_naacl_workshop_final.pdf){:target="_blank"}. [video presentation](https://www.youtube.com/watch?v=Q1WgnwIvVZE){:target="_blank"}.
 
@@ -44,9 +44,9 @@ The \*SEM paper below describes how we polarize the words and phrases in a sente
 
 - Hu, Hai, Kyle Richardson, Liang Xu, Lu Li, Sandra Kuebler, and Larry Moss. (2020). OCNLI: Original Chinese Natural Language Inference. In: *Findings of EMNLP*. [paper](https://arxiv.org/abs/2010.05444){:target="_blank"}. [code and data](https://github.com/CLUEbenchmark/OCNLI){:target="_blank"}. [leaderboard](https://www.cluebenchmarks.com/nli.html){:target="_blank"}.
 
-- Richardson, Kyle, Hai Hu, Larry Moss, and Ashish Sabharwal. (2020). Probing Natural Language Inference Models through Semantic Fragments. In: *Proceedings of the Thirty-Fourth AAAI Conference on Artificial Intelligence*. [paper](https://arxiv.org/abs/1909.07521){:target="_blank"}. [code and data](https://github.com/yakazimir/semantic_fragments){:target="_blank"}.
+- Richardson, Kyle, Hai Hu, Larry Moss, and Ashish Sabharwal. (2020). Probing Natural Language Inference Models through Semantic Fragments. In: *Proceedings of the Thirty-Fourth AAAI Conference on Artificial Intelligence*. pp. 8713-8721. [paper](https://arxiv.org/abs/1909.07521){:target="_blank"}. [code and data](https://github.com/yakazimir/semantic_fragments){:target="_blank"}.
 
-- Hu, Hai, Qi Chen, Kyle Richardson, Atreyee Mukherjee, Lawrence S Moss, and Sandra Kuebler. (2020). MonaLog: a Lightweight System for Natural Language Inference Based on Monotonicity. In: *Proceedings of the Society for Computation in Linguistics 2020*. [paper](https://scholarworks.umass.edu/scil/vol3/iss1/31/){:target="_blank"}. [poster](https://huhailinguist.github.io/projects/monalog_poster.pdf){:target="_blank"}.
+- Hu, Hai, Qi Chen, Kyle Richardson, Atreyee Mukherjee, Lawrence S Moss, and Sandra Kuebler. (2020). MonaLog: a Lightweight System for Natural Language Inference Based on Monotonicity. In: *Proceedings of the Society for Computation in Linguistics 2020*. pp. 319-329. [paper](https://scholarworks.umass.edu/scil/vol3/iss1/31/){:target="_blank"}. [poster](https://huhailinguist.github.io/projects/monalog_poster.pdf){:target="_blank"}.
 
 - Hu, Hai, Qi Chen and Larry Moss. (2019). Natural Language Inference with Monotonicity. In *Proceedings of the 13th International Conference on Computational Semantics (IWCS 2019)*, pp. 8–15. Gothenburg, Sweden. [paper](https://www.aclweb.org/anthology/W19-0502){:target="_blank"}.
 
