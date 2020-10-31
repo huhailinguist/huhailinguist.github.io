@@ -78,11 +78,11 @@ People’s Daily on English words in Chinese: [中外文夹杂 真让人犯晕](
 
 A project about the raising of /an/ in the Chengdu dialect of Mandarin. Please see the abstracts for more information. 
 
-- Hu, Hai, Aini Li, Yiwen Zhang and Phillip Weirich. (2019). Vowel Raising in the Chengdu Dialect of Mandarin. Poster at *Linguistic Society of America 2019 Annual Meeting*. New York, NY. [abstract](https://www.linguisticsociety.org/abstract/vowel-raising-chengdu-dialect-mandarin-0){:target="_blank"}
+- Hu, Hai, Aini Li, Yiwen Zhang and Phillip Weirich. (2019). Vowel Raising in the Chengdu Dialect of Mandarin. Poster at *Linguistic Society of America 2019 Annual Meeting*. New York, NY. [abstract](https://www.linguisticsociety.org/abstract/vowel-raising-chengdu-dialect-mandarin-0){:target="_blank"}. [poster](https://huhailinguist.github.io/projects/HuEtAl2019.pdf){:target="_blank"}.
 
-- Hu, Hai and Yiwen Zhang. (2017). Path of Vowel Raising in Chengdu Dialect of Mandarin. In *Proceedings of the 29th North America Conference on Chinese Linguistics*. Rutgers, NJ. [paper](https://naccl.osu.edu/sites/naccl.osu.edu/files/29-Hu%26Zhang-p.481-498.pdf){:target="_blank"}. [abstract](NACCL29_Hu_IndianaUniv.pdf){:target="_blank"}
+- Hu, Hai and Yiwen Zhang. (2017). Path of Vowel Raising in Chengdu Dialect of Mandarin. In *Proceedings of the 29th North America Conference on Chinese Linguistics*. Rutgers, NJ. [paper](https://naccl.osu.edu/sites/naccl.osu.edu/files/29-Hu%26Zhang-p.481-498.pdf){:target="_blank"}. [abstract](NACCL29_Hu_IndianaUniv.pdf){:target="_blank"}.
 
-- Zhang, Yiwen and Hai Hu. (2017). Vowel Raising in Chengdu Dialect of Mandarin. Poster presented at *Linguistic Society of America 2017 Annual Meeting*. Austin, TX. [abstract](http://www.linguisticsociety.org/abstract/vowel-raising-chengdu-dialect-mandarin){:target="_blank"}
+- Zhang, Yiwen and Hai Hu. (2017). Vowel Raising in Chengdu Dialect of Mandarin. Poster presented at *Linguistic Society of America 2017 Annual Meeting*. Austin, TX. [abstract](http://www.linguisticsociety.org/abstract/vowel-raising-chengdu-dialect-mandarin){:target="_blank"}.
 
 ## Chinese segmentation and parsing
 
