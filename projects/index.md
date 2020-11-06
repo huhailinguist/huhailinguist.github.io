@@ -58,7 +58,7 @@ The \*SEM paper below describes how we polarize the words and phrases in a sente
 
 We built the first comprehensive NLU benchmark for Chinese: [CLUE](https://www.cluebenchmarks.com/){:target="_blank"} (github [page](https://github.com/CLUEbenchmark/CLUE){:target="_blank"})
 
-- Xu, Liang, Hai Hu, Xuanwei Zhang, Lu Li, Chenjie Cao, Yudong Li, Yechen Xu, Kai Sun, Dian Yu, Cong Yu, Yin Tian, Qianqian Dong, Weitang Liu, Bo Shi, Yiming Cui, Junyi Li, Jun Zeng, Rongzhao Wang, Weijian Xie, Yanting Li, Yina Patterson, Zuoyu Tian, Yiwen Zhang, He Zhou, Shaoweihua Liu, Zhe Zhao, Qipeng Zhao, Cong Yue, Xinrui Zhang, Zhengliang Yang, Kyle Richardson, and Zhenzhong Lan (2020). CLUE: A Chinese Language Understanding Evaluation Benchmark. In *Proceedings ofthe 28th International Conference on Computational Linguistics (COLING)*. (accepted).
+- Xu, Liang, Hai Hu, Xuanwei Zhang, Lu Li, Chenjie Cao, Yudong Li, Yechen Xu, Kai Sun, Dian Yu, Cong Yu, Yin Tian, Qianqian Dong, Weitang Liu, Bo Shi, Yiming Cui, Junyi Li, Jun Zeng, Rongzhao Wang, Weijian Xie, Yanting Li, Yina Patterson, Zuoyu Tian, Yiwen Zhang, He Zhou, Shaoweihua Liu, Zhe Zhao, Qipeng Zhao, Cong Yue, Xinrui Zhang, Zhengliang Yang, Kyle Richardson, and Zhenzhong Lan (2020). CLUE: A Chinese Language Understanding Evaluation Benchmark. In *Proceedings ofthe 28th International Conference on Computational Linguistics (COLING)*. [paper](https://arxiv.org/pdf/2004.05986.pdf){:target="_blank"}.
 
 We held a share-task to test light-weight models for Chinese NLU.
 
