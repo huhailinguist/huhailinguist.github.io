@@ -1,6 +1,7 @@
 ---
 layout: page
 title:  Research projects
+order: 2
 ---
 
 Here are some of the research projects I've worked on, with some description for each of them.

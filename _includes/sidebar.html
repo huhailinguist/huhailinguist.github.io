@@ -21,7 +21,9 @@
         `layout: page` in the front-matter. See readme for usage.
       {% endcomment %}
 
-      {% assign pages_list = site.pages %}
+      <!-- was: {% assign pages_list = site.pages %}  -->
+      <!-- sort pages in side bar: https://stackoverflow.com/questions/13266369/how-to-change-the-default-order-pages-in-jekyll -->
+      {% assign pages_list = site.pages | sort:"order" %}
       {% for node in pages_list %}
         {% if node.title != null %}
           {% if node.layout == "page" %}

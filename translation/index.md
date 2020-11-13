@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Translation
+order: 4
 ---
 
 ## 表象与本质

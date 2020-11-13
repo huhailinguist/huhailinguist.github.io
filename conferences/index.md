@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Datasets & events
+order: 3
 ---
 
 ## Original Chinese Natural Language Inference task

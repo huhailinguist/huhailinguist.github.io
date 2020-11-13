@@ -1,6 +1,7 @@
 ---
 layout: page
 title:  Teaching
+order: 5
 ---
 
 ## 2017 Fall
