@@ -1,9 +1,10 @@
 ---
 layout: page
-title:  Publications & presentations
+title:  Research projects
 ---
 
-Here are some publications and presentations, grouped by topic.
+Here are some of the research projects I've worked on, with some description for each of them.
+For a list of publications, see [publications](https://huhailinguist.github.io/publications/).
 
 ## Stylistic features of original and translated Chinese
 
