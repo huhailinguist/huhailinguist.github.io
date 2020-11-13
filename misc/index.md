@@ -1,7 +1,3 @@
----
-layout: page
-title: Miscellaneous
----
 
 ## Good videos on:
 

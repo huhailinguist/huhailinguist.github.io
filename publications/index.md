@@ -3,8 +3,10 @@ layout: page
 title:  Publications
 ---
 
-A list of publications. For descriptions of relevant 
-projects, see [research projects](https://huhailinguist.github.io/projects/).
+For descriptions of relevant 
+projects, see [Research projects](https://huhailinguist.github.io/projects/).
+Also see my [Google Scholar](https://scholar.google.com/citations?user=G2RN6qMAAAAJ&hl=en) 
+for more.
 
 ### Submitted, in prep
 
@@ -23,7 +25,7 @@ Current Version: Sept. 6, 2020 (Major Revision at *Journal of Operations Managem
 
 - Richardson, Kyle, Hai Hu, Larry Moss, and Ashish Sabharwal. (2020). Probing Natural Language Inference Models through Semantic Fragments. In: *Proceedings of the Thirty-Fourth AAAI Conference on Artificial Intelligence*. pp. 8713-8721. [paper](https://arxiv.org/abs/1909.07521){:target="_blank"}. [code and data](https://github.com/yakazimir/semantic_fragments){:target="_blank"}.
 
-- Hu, Hai, Qi Chen, Kyle Richardson, Atreyee Mukherjee, Lawrence S Moss, and Sandra Kuebler. (2020). MonaLog: a Lightweight System for Natural Language Inference Based on Monotonicity. In: *Proceedings of the Society for Computation in Linguistics 2020*. pp. 319-329. [paper](https://scholarworks.umass.edu/scil/vol3/iss1/31/){:target="_blank"}. [poster](https://huhailinguist.github.io/projects/monalog_poster.pdf){:target="_blank"}.
+- Hu, Hai, Qi Chen, Kyle Richardson, Atreyee Mukherjee, Lawrence S Moss, and Sandra Kuebler. (2020). MonaLog: a Lightweight System for Natural Language Inference Based on Monotonicity. In: *Proceedings of the Society for Computation in Linguistics 2020*. pp. 319-329. [paper](https://scholarworks.umass.edu/scil/vol3/iss1/31/){:target="_blank"}. [poster](https://huhailinguist.github.io/projects/monalog_poster.pdf){:target="_blank"}. [code](https://github.com/huhailinguist/monalog){:target="_blank"}.
 
 - Li, Junyi, Hai Hu, Xuanwei Zhang, Minglei Li, Lu Li, and Liang Xu. "Light Pre-Trained Chinese Language Model for NLP Tasks." In *CCF International Conference on Natural Language Processing and Chinese Computing*, pp. 567-578. Springer, 2020. [paper](https://link.springer.com/chapter/10.1007/978-3-030-60457-8_47)
 
