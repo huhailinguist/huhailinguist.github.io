@@ -14,6 +14,9 @@ for more.
 - Shen, Peng, Vivek Astvansh, Hai Hu. (Resubmitted). *Organizational learning during product failure*.
 Current Version: Sept. 6, 2020 (Major Revision at *Journal of Operations Management*). See Peng's [page](https://sites.google.com/view/pengshen/research){:target="_blank"} for more information. 
 
+### 2021
+
+- Hu, Hai, Patrícia Amaral and Sandra Kübler (accepted). "Word Embeddings and Semantic Shifts in Historical Spanish: Methodological Considerations". In * Digital Scholarship in the Humanities*. 
 
 ### 2020
 
