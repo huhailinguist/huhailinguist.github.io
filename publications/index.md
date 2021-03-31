@@ -16,7 +16,7 @@ Current Version: Sept. 6, 2020 (Major Revision at *Journal of Operations Managem
 
 ### 2021
 
-- Hu, Hai, Patrícia Amaral and Sandra Kübler (accepted). "Word Embeddings and Semantic Shifts in Historical Spanish: Methodological Considerations". In * Digital Scholarship in the Humanities*. 
+- Hu, Hai, Patrícia Amaral and Sandra Kübler (accepted). "Word Embeddings and Semantic Shifts in Historical Spanish: Methodological Considerations". In *Digital Scholarship in the Humanities*. 
 
 ### 2020
 
