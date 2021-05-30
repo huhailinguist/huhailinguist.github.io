@@ -6,5 +6,9 @@ order: 6
 
 ## test publications
 
+<div id="html" markdown="0">
 
+<script src="https://bibbase.org/show?bib=https%3A%2F%2Fhuhailinguist.github.io%2Fpublications_new%2Fhai_hu_pub.bib&commas=true&jsonp=1"></script>
 
+</div>
+  
