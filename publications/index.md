@@ -18,6 +18,8 @@ Current Version: Sept. 6, 2020 (Major Revision at *Journal of Operations Managem
 
 - Hu, Hai, Patrícia Amaral and Sandra Kübler (accepted). "Word Embeddings and Semantic Shifts in Historical Spanish: Methodological Considerations". In *Digital Scholarship in the Humanities*. 
 
+- Hu, Hai, He Zhou, Zuoyu Tian, Yiwen Zhang, Yina Ma, Yanting Li, Yixin Nie, Kyle Richardson (2021). Investigating Transfer Learning in Multilingual Pre-trained Language Models through Chinese Natural Language Inference. In: *Findings of ACL*. [paper](https://arxiv.org/abs/2106.03983){:target="_blank"}. [code](https://github.com/huhailinguist/ChineseNLIProbing){:target="_blank"}.
+
 ### 2020
 
 - Hu, Hai, Yanting Li, Yina Patterson, Zuoyu Tian, Yiwen Zhang, He Zhou, Sandra Kübler, and Chien-Jer Charles Lin (2020). “Building a Literary Treebank for  Translation Studies in Chinese”. In: *Proceedings of 19th International Workshop on Treebanks and Linguistic Theories (TLT)*. pp. 18-31. [paper](https://www.aclweb.org/anthology/2020.tlt-1.2.pdf){:target="_blank"}.
