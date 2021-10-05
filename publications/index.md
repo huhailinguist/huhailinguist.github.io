@@ -16,7 +16,7 @@ Current Version: Sept. 6, 2020 (Major Revision at *Journal of Operations Managem
 
 ### 2021
 
-- Hu, Hai, Patrícia Amaral and Sandra Kübler (accepted). "Word Embeddings and Semantic Shifts in Historical Spanish: Methodological Considerations". In *Digital Scholarship in the Humanities*. 
+- Hu, Hai, Patrícia Amaral and Sandra Kübler (accepted). "Word Embeddings and Semantic Shifts in Historical Spanish: Methodological Considerations". In *Digital Scholarship in the Humanities*. [paper](https://academic.oup.com/dsh/advance-article-abstract/doi/10.1093/llc/fqab050/6357326?redirectedFrom=fulltext){:target="_blank"}. [code](https://github.com/pamaral1604/SemChangeSpanish){:target="_blank"}
 
 - Hu, Hai, He Zhou, Zuoyu Tian, Yiwen Zhang, Yina Ma, Yanting Li, Yixin Nie, Kyle Richardson (2021). Investigating Transfer Learning in Multilingual Pre-trained Language Models through Chinese Natural Language Inference. In: *Findings of ACL*. [paper](https://arxiv.org/abs/2106.03983){:target="_blank"}. [code](https://github.com/huhailinguist/ChineseNLIProbing){:target="_blank"}.
 
