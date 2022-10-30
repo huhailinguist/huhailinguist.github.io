@@ -16,7 +16,7 @@ Current Version: Sept. 6, 2020 (Major Revision at *Journal of Operations Managem
 
 ### 2022
 
-- Kalouli*, Aikaterini-Lida, Hai Hu*, Alexander F. Webb, Lawrence S. Moss, Valeria de Paiva. (accepted). Curing the SICK and other NLI maladies. Computational Linguistics (SSCI). *\*equal contributions*. [paper](https://doi.org/10.1162/coli_a_00465){:target="_blank"}. [data]([https://github.com/CLUEbenchmark/FewCLUE](https://github.com/huhailinguist/curing-SICK)){:target="_blank"}. 
+- Kalouli*, Aikaterini-Lida, Hai Hu*, Alexander F. Webb, Lawrence S. Moss, Valeria de Paiva. (accepted). Curing the SICK and other NLI maladies. Computational Linguistics (SSCI). *\*equal contributions*. [paper](https://doi.org/10.1162/coli_a_00465){:target="_blank"}. [data](https://github.com/huhailinguist/curing-SICK){:target="_blank"}. 
 
 ### 2021
 
