@@ -14,7 +14,13 @@ for more.
 - Shen, Peng, Vivek Astvansh, Hai Hu. (Resubmitted). *Organizational learning during product failure*.
 Current Version: Sept. 6, 2020 (Major Revision at *Journal of Operations Management*). See Peng's [page](https://sites.google.com/view/pengshen/research){:target="_blank"} for more information. 
 
+### 2022
+
+- Kalouli*, Aikaterini-Lida, Hai Hu*, Alexander F. Webb, Lawrence S. Moss, Valeria de Paiva. (accepted). Curing the SICK and other NLI maladies. Computational Linguistics (SSCI). *\*equal contributions*. [paper](https://doi.org/10.1162/coli_a_00465){:target="_blank"}. [data]([https://github.com/CLUEbenchmark/FewCLUE](https://github.com/huhailinguist/curing-SICK)){:target="_blank"}. 
+
 ### 2021
+
+- Xu, Liang, Xiaojing Lu, Chenyang Yuan, Xuanwei Zhang, Huilin Xu, Hu Yuan, Guoao Wei, Pan Xiang, Xin Tian, Hai Hu. (2021). FewCLUE: A Chinese few-shot learning evaluation benchmark. _arXiv preprint arXiv:2107.07498._ [paper](https://arxiv.org/pdf/2107.07498.pdf){:target="_blank"}. [code](https://github.com/CLUEbenchmark/FewCLUE){:target="_blank"}.
 
 - Amaral, Patrícia, Hai Hu and Sandra Kübler (accepted). "Tracing semantic change with distributional methods: The contexts of _algo_". *Diachronica*.
 
