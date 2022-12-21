@@ -18,15 +18,18 @@ Current Version: Sept. 6, 2020 (Major Revision at *Journal of Operations Managem
 
 - Kalouli*, Aikaterini-Lida, Hai Hu*, Alexander F. Webb, Lawrence S. Moss, Valeria de Paiva. (accepted). Curing the SICK and other NLI maladies. *Computational Linguistics*. *\*equal contributions*. [paper](https://doi.org/10.1162/coli_a_00465){:target="_blank"}. [data](https://github.com/huhailinguist/curing-SICK){:target="_blank"}. 
 
+- Hu, Hai, Patrícia Amaral and Sandra Kübler (2022). "Word Embeddings and Semantic Shifts in Historical Spanish: Methodological Considerations". *Digital Scholarship in the Humanities*. Volume 37, Issue 2, Pages 441–461. https://doi.org/10.1093/llc/fqab050 [paper](https://academic.oup.com/dsh/advance-article-abstract/doi/10.1093/llc/fqab050/6357326?redirectedFrom=fulltext){:target="_blank"}. [data and code](https://github.com/pamaral1604/SemChangeSpanish){:target="_blank"}
+
+- Amaral, Patrícia, Hai Hu and Sandra Kübler (2022). "Tracing semantic change with distributional methods: The contexts of _algo_". *Diachronica*. https://doi.org/10.1075/dia.21012.ama
+
+
 ### 2021
 
 - Xu, Liang, Xiaojing Lu, Chenyang Yuan, Xuanwei Zhang, Huilin Xu, Hu Yuan, Guoao Wei, Pan Xiang, Xin Tian, Hai Hu. (2021). FewCLUE: A Chinese few-shot learning evaluation benchmark. _arXiv preprint arXiv:2107.07498._ [paper](https://arxiv.org/pdf/2107.07498.pdf){:target="_blank"}. [code](https://github.com/CLUEbenchmark/FewCLUE){:target="_blank"}.
 
-- Amaral, Patrícia, Hai Hu and Sandra Kübler (accepted). "Tracing semantic change with distributional methods: The contexts of _algo_". *Diachronica*.
-
-- Hu, Hai, Patrícia Amaral and Sandra Kübler (accepted). "Word Embeddings and Semantic Shifts in Historical Spanish: Methodological Considerations". *Digital Scholarship in the Humanities*. [paper](https://academic.oup.com/dsh/advance-article-abstract/doi/10.1093/llc/fqab050/6357326?redirectedFrom=fulltext){:target="_blank"}. [data and code](https://github.com/pamaral1604/SemChangeSpanish){:target="_blank"}
-
 - Hu, Hai, He Zhou, Zuoyu Tian, Yiwen Zhang, Yina Ma, Yanting Li, Yixin Nie, Kyle Richardson (2021). Investigating Transfer Learning in Multilingual Pre-trained Language Models through Chinese Natural Language Inference. In: *Findings of ACL*. [paper](https://arxiv.org/abs/2106.03983){:target="_blank"}. [data and code](https://github.com/huhailinguist/ChineseNLIProbing){:target="_blank"}.
+
+- Hu, Hai and Sandra Kübler. (2021). Investigating Translated Chinese and Its Variants Using Machine Learning. In *Natural Language Engineering*. Volume 27, Issue 3, May 2021, pp. 339 - 372. https://doi.org/10.1017/S1351324920000182 [paper](http://dx.doi.org/10.1017/S1351324920000182){:target="_blank"}. [code](https://github.com/huhailinguist/translationese){:target="_blank"}.
 
 ### 2020
 
@@ -42,8 +45,6 @@ Current Version: Sept. 6, 2020 (Major Revision at *Journal of Operations Managem
 - Hu, Hai, Qi Chen, Kyle Richardson, Atreyee Mukherjee, Lawrence S Moss, and Sandra Kuebler. (2020). MonaLog: a Lightweight System for Natural Language Inference Based on Monotonicity. In: *Proceedings of the Society for Computation in Linguistics 2020*. pp. 319-329. [paper](https://scholarworks.umass.edu/scil/vol3/iss1/31/){:target="_blank"}. [poster](https://huhailinguist.github.io/projects/monalog_poster.pdf){:target="_blank"}. [code](https://github.com/huhailinguist/monalog){:target="_blank"}.
 
 - Li, Junyi, Hai Hu, Xuanwei Zhang, Minglei Li, Lu Li, and Liang Xu. "Light Pre-Trained Chinese Language Model for NLP Tasks." In *CCF International Conference on Natural Language Processing and Chinese Computing*, pp. 567-578. Springer, 2020. [paper](https://link.springer.com/chapter/10.1007/978-3-030-60457-8_47)
-
-- Hu, Hai and Sandra Kübler. (2020). Investigating Translated Chinese and Its Variants Using Machine Learning. In *Natural Language Engineering (Special Issue: NLP for Similar Languages, Varieties and Dialects)*. pp. 1-34. [paper](http://dx.doi.org/10.1017/S1351324920000182){:target="_blank"}. [code](https://github.com/huhailinguist/translationese){:target="_blank"}.
 
 
 ### 2019
