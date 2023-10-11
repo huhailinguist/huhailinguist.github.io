@@ -9,6 +9,10 @@ studies:
 
 ## Lab members 
 
+### Lead
+
+- Hai Hu: Assistant Professor at SFL, SJTU
+
 ### Students
 
 - Yikang Liu: master student in linguistics at SFL, SJTU 
