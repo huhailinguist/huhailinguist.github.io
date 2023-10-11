@@ -14,9 +14,9 @@ studies:
 
 ### Thesis advisees/committee member (previous; current)
 
-BS thesis in CS: [Ziyin Zhang](https://geralt-targaryen.github.io/){:target="_blank"} (co-adviser; BS in CS/BA in English, SJTU; master student in CS, SJTU)
-BA thesis: Chunhao Wang (BA in English/BS in Math; master student at UC Berkeley); Shisen Yue; Jieqiong Ding
-PhD thesis: Qi Chen (committee member; Cognitive Science, Indiana University)
+- BS thesis in CS: [Ziyin Zhang](https://geralt-targaryen.github.io/){:target="_blank"} (co-adviser; BS in CS/BA in English, SJTU; master student in CS, SJTU)
+- BA thesis: Chunhao Wang (BA in English/BS in Math; master student at UC Berkeley); Shisen Yue; Jieqiong Ding
+- PhD thesis: Qi Chen (committee member; Cognitive Science, Indiana University)
 
 ### Student collaboraters (current position)
 
