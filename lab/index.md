@@ -15,7 +15,7 @@ studies:
 
 ### Students
 
-- Yikang Liu: master student in linguistics at SFL, SJTU 
+- [Yikang Liu](https://yikang0131.github.io){:target="_blank"}: master student in linguistics at SFL, SJTU 
 
 ### Thesis advisees/committee member (previous; current)
 
