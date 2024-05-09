@@ -8,7 +8,7 @@ See my [Google Scholar](https://scholar.google.com/citations?user=G2RN6qMAAAAJ&h
 for more.
 
 ### preprint
-- Shisen Yue, Siyuan Song, Xinyuan Cheng, Hai Hu. (2024). Do Large Language Models Understand Conversational Implicature -- A case study with a chinese sitcom. ArXiv, abs/2404.19509. [paper](https://arxiv.org/abs/2404.19509){:target="_blank"}. [data](https://github.com/sjtu-compling/llm-pragmatics){:target="_blank"}.
+- Shisen Yue, Siyuan Song, Xinyuan Cheng, Hai Hu. (2024). Do Large Language Models Understand Conversational Implicature -- A case study with a Chinese sitcom. ArXiv, abs/2404.19509. [paper](https://arxiv.org/abs/2404.19509){:target="_blank"}. [data](https://github.com/sjtu-compling/llm-pragmatics){:target="_blank"}.
 
 - Jushi Kai, Hai Hu, Zhouhan Lin. (2024). SH2: Self-Highlighted Hesitation Helps You Decode More Truthfully. ArXiv, abs/2401.05930. [paper](https://arxiv.org/abs/2401.05930){:target="_blank"}.
 
