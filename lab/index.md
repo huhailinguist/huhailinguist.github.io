@@ -1,4 +1,8 @@
-# CL lab
+---
+layout: page
+title:  CL lab
+order: 1
+---
 
 The computational linguistics (CL) lab at School of Foreign Languages (SFL), Shanghai Jiao Tong University (SJTU)
 studies:
