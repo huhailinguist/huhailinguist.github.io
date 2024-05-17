@@ -18,20 +18,26 @@ studies:
 - Hai Hu: Assistant Professor at SFL, SJTU
 
 ### Students
-
+  Graduate students:
 - [Yikang Liu](https://yikang0131.github.io){:target="_blank"}: master student in linguistics at SFL, SJTU 
+- [Ziyin Zhang](https://geralt-targaryen.github.io/){:target="_blank"} (BS in CS/BA in English, SJTU; master student in CS, SJTU)
 
-### Thesis advisees/committee member (previous; current)
+  Undergraduate students:
+- Shisen Yue (English, SJTU; incoming PhD student in Cognitive Science at Johns Hopkins U)
+- Jieqiong Ding (English/Design, SJTU; incoming Master student in HCI at U Washington)
+- Xinyuan Cheng (German, SJTU)
+- Hongao Zhu (English, SJTU)
+- Siyuan Song (English, SJTU)
+- Chongtian Shao (Info Engineering, SJTU)
+- Xinyang Zhou (Chinese, SJTU)
+- Kejia Zhang (English, SJTU)
+- Yufan Gai (German, SJTU)
+- Zhiheng Qian (German, SJTU)
 
-- BS thesis in CS: [Ziyin Zhang](https://geralt-targaryen.github.io/){:target="_blank"} (co-adviser; BS in CS/BA in English, SJTU; master student in CS, SJTU)
-- BA thesis: Chunhao Wang (BA in English/BS in Math; master student at UC Berkeley); Shisen Yue; Jieqiong Ding
-- PhD thesis: Qi Chen (committee member; Cognitive Science, Indiana University)
+### Previous lab members
 
-### Student collaboraters (current position)
-
-- Xiaojing Zhao: master student in translation at SFL, SJTU
-- Ziwei He: PhD student in CS, SJTU
-- Xinyuan Cheng: BA student in German at SFL, SJTU
+- Xiaojing Zhao (MA in Transltaion, SJTU; PhD student in Translation at PolyU)
+- Chunhao Wang (BA in English/BS in Math; master student at UC Berkeley)
 - Minghua Wu: MA student in Chinese at PKU（research assistant at PolyU, HK）
 - Jingyan Xie: BA student in English at FDU (master student at Northeastern U, USA)
 
