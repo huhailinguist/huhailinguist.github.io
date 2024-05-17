@@ -18,11 +18,12 @@ studies:
 - Hai Hu: Assistant Professor at SFL, SJTU
 
 ### Students
-  Graduate students:
+
+#### Graduate students:
 - [Yikang Liu](https://yikang0131.github.io){:target="_blank"}: master student in linguistics at SFL, SJTU 
 - [Ziyin Zhang](https://geralt-targaryen.github.io/){:target="_blank"} (BS in CS/BA in English, SJTU; master student in CS, SJTU)
 
-  Undergraduate students:
+#### Undergraduate students:
 - Shisen Yue (English, SJTU; incoming PhD student in Cognitive Science at Johns Hopkins U)
 - Jieqiong Ding (English/Design, SJTU; incoming Master student in HCI at U Washington)
 - Xinyuan Cheng (German, SJTU)
