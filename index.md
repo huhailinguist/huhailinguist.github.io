@@ -21,7 +21,7 @@ Before IU, I got my BA in English and MA in English linguistics at [Renmin Unive
 
 Chengdu is my hometown, which is also home to pandas :panda_face:, hot pot :stew:, all kinds of spicy and non-spicy food, and :mahjong:.
  
-My research interests: natural language inference, Chinese linguistics, language variation and change, natural language understanding corpus annotation, stylistic properties of translations. See my [Publications (mostly up to date)](publications/) or [Research projects (should be outdated already)](projects/) or [Google Scholar](https://scholar.google.com/citations?user=G2RN6qMAAAAJ&hl=en) page for papers and more information. 
+My research interests: natural language inference, Chinese linguistics, language variation and change, natural language understanding corpus annotation, stylistic properties of translations. See my [Publications (mostly up to date)](publications/) or [Google Scholar](https://scholar.google.com/citations?user=G2RN6qMAAAAJ&hl=en) page for papers and more information. 
 
 **OUR LAB is constangly HIRING** students who are interested in computational linguistics. 
 
