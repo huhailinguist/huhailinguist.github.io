@@ -15,7 +15,7 @@ I am an Assistant Professor in the Translation Department at Shanghai Jiao Tong 
 I work in the field of Computational Linguistics (or Natural Language Processing), which involves building, evaluating and interpreting computational models that understand and produce human languages. 
 
 I received my PhD degree in (Computational) Linguistics from the Department of Linguistics at [Indiana University Bloomington](https://linguistics.indiana.edu/){:target="_blank"} (IU). 
-I was very lucky to be advised by [Larry Moss](https://iulg.sitehost.iu.edu/moss/){:target="_blank"} (Math) and [Sandra Kübler](https://cl.indiana.edu/~skuebler/){:target="_blank"} (Computational Linguistics). I also work closely with [Chien-Jer Charles Lin](https://ealc.indiana.edu/people/lin-chien-jer-charles.html) and [Patrícia Amaral](https://spanport.indiana.edu/about/faculty/amaral-patricia.html). 
+I was very lucky to be advised by [Larry Moss](https://iulg.sitehost.iu.edu/moss/){:target="_blank"} (Math) and [Sandra Kübler](https://cl.indiana.edu/~skuebler/){:target="_blank"} (Computational Linguistics). I also work closely with [Chien-Jer Charles Lin](https://ealc.indiana.edu/people/lin-chien-jer-charles.html) and [Patrícia Amaral](https://spanport.indiana.edu/about/faculty/amaral-patricia.html) at IU. 
 
 Before IU, I got my BA in English and MA in English linguistics at [Renmin University of China](http://www.ruc.edu.cn/){:target="_blank"}. I spent one year at [Universität Tübingen](https://uni-tuebingen.de/en/university.html){:target="_blank"} as an exchange student and learned some [Schwäbisch](https://www.schwaebisch-schwaetza.de/schwaebisch_woerterbuch.html){:target="_blank"} German :)
 
