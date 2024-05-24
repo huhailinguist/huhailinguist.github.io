@@ -12,7 +12,7 @@ My name is 胡 (Hu) 海 (Hai), but in English people say it in the reverse way, 
  
 I am an Assistant Professor in the Translation Department at Shanghai Jiao Tong University.
 
-I work in the field of Computational Linguistics (or Natural Language Processing), building, evaluating and understanding computational models that understand and produce human languages. 
+I work in the field of Computational Linguistics (or Natural Language Processing), which involves building, evaluating and interpreting computational models that understand and produce human languages. 
 
 I received my PhD degree in (Computational) Linguistics from the Department of Linguistics at [Indiana University Bloomington](https://linguistics.indiana.edu/){:target="_blank"} (IU). 
 I was very lucky to be advised by [Larry Moss](https://iulg.sitehost.iu.edu/moss/){:target="_blank"} (Math) and [Sandra Kübler](https://cl.indiana.edu/~skuebler/){:target="_blank"} (Computational Linguistics). I also work closely with [Chien-Jer Charles Lin](https://ealc.indiana.edu/people/lin-chien-jer-charles.html) and [Patrícia Amaral](https://spanport.indiana.edu/about/faculty/amaral-patricia.html). 
@@ -23,7 +23,6 @@ Chengdu is my hometown, which is also home to pandas :panda_face:, hot pot :stew
  
 My research interests: natural language inference, Chinese linguistics, language variation and change, natural language understanding corpus annotation, stylistic properties of translations. See my [Publications (mostly up to date)](publications/) or [Research projects (should be outdated already)](projects/) or [Google Scholar](https://scholar.google.com/citations?user=G2RN6qMAAAAJ&hl=en) page for papers and more information. 
 
-email: hu.hai at sjtu.edu.cn 
+**OUR LAB is constangly HIRING** students who are interested in computational linguistics. 
 
-**OUR LAB is constangly HIRING**
-
+You can reach me at: hu.hai at sjtu.edu.cn 
