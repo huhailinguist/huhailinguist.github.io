@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: mypage
 title:  Research projects
 order: 2
 ---
