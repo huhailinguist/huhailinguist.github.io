@@ -30,7 +30,7 @@ We are actively recruiting students interested in computational linguistics and 
 - [Ziyin Zhang](https://geralt-targaryen.github.io/){:target="_blank"} (BS in CS/BA in English, SJTU; master student in CS, SJTU)
 
 #### Undergraduate students:
-- Shisen Yue (English, SJTU; incoming PhD student in Cognitive Science at Johns Hopkins U)
+- [Shisen Yue](https://shawn0918.github.io/){:target="_blank"} (English, SJTU; incoming PhD student in Cognitive Science at Johns Hopkins U)
 - Jieqiong Ding (English/Design, SJTU; incoming Master student in HCI at U Washington)
 - Xinyuan Cheng (German, SJTU)
 - Hongao Zhu (English, SJTU)
