@@ -12,9 +12,10 @@ studies:
 
 Our lab is equipped with several deep learning servers for training and evaluating state-of-the-art language models. Currently we have two master students and several undergraduate students working in the lab. They come from diverse backgrounds: linguistics, computer science, information engineering, translation, language studies (English, German, Chinese), etc.
 
+We are actively recruiting students interested in computational linguistics and related areas!
+
 欢迎对计算语言学/自然语言处理/语料库语言学/机器翻译/认知科学感兴趣的本科同学加入本组！ 特别欢迎有计算机或心理学、认知科学背景的同学。
 欢迎有意读硕士（语言学学硕、翻译专硕）的同学联系我！
-We are actively recruiting students interested in computational linguistics and related areas!
 
 
 ## Lab members 
