@@ -29,12 +29,12 @@ We are actively recruiting students interested in computational linguistics and 
 #### Graduate students:
 - [Yikang Liu](https://yikang0131.github.io){:target="_blank"}: master student in linguistics at SFL, SJTU 
 - [Ziyin Zhang](https://geralt-targaryen.github.io/){:target="_blank"} (BS in CS/BA in English, SJTU; master student in CS, SJTU)
+- Juhui Zhu: MA in translation
+- Jiayi Liu: MA in translation
 
 #### Undergraduate students:
-- [Shisen Yue](https://shawn0918.github.io/){:target="_blank"} (English, SJTU; incoming PhD student in Cognitive Science at Johns Hopkins U)
-- Jieqiong Ding (English/Design, SJTU; incoming Master student in HCI at U Washington)
-- Xinyuan Cheng (German, SJTU)
 - Hongao Zhu (English, SJTU)
+- Yeting Shen (English, SJTU)
 - Siyuan Song (English, SJTU)
 - Chongtian Shao (Info Engineering, SJTU)
 - Xinyang Zhou (Chinese, SJTU)
@@ -43,8 +43,10 @@ We are actively recruiting students interested in computational linguistics and 
 - Zhiheng Qian (German, SJTU)
 
 ### Previous lab members
-
-- Xiaojing Zhao (MA in Transltaion, SJTU; PhD student in Translation at PolyU)
-- Chunhao Wang (BA in English/BS in Math; master student at UC Berkeley)
+- [Shisen Yue](https://shawn0918.github.io/){:target="_blank"} (2024 English, SJTU;  PhD student in Cognitive Science at Johns Hopkins U)
+- Jieqiong Ding (2024 English/Design, SJTU;  Master student in HCI at U Washington)
+- Xinyuan Cheng (2024 German, SJTU)
+- Xiaojing Zhao (2024 MA in Transltaion, SJTU; PhD student in Translation at PolyU)
+- Chunhao Wang (2023 BA in English/BS in Math; master student at UC Berkeley)
 - Minghua Wu: MA student in Chinese at PKU（research assistant at PolyU, HK）
 - Jingyan Xie: BA student in English at FDU (master student at Northeastern U, USA)
