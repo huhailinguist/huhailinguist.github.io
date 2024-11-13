@@ -7,8 +7,9 @@ order: 1
 The computational linguistics (CL) lab at School of Foreign Languages (SFL), Shanghai Jiao Tong University (SJTU)
 studies:
 
-1) various aspects of human languages through computational modelling 
+1) various aspects (mostly syntax, semantics and pragmatics) of human languages through computational modelling 
 2) Natural Language Processing, with a specific focus on benchmarking language models in language understanding
+3) comparing language acquisition in humans and language models
 
 Our lab is equipped with several deep learning servers for training and evaluating state-of-the-art language models. Currently we have two master students and several undergraduate students working in the lab. They come from diverse backgrounds: linguistics, computer science, information engineering, translation, language studies (English, German, Chinese), etc.
 
@@ -16,7 +17,6 @@ We are actively recruiting students interested in computational linguistics and 
 
 欢迎对计算语言学/自然语言处理/语料库语言学/机器翻译/认知科学感兴趣的本科同学加入本组！ 特别欢迎有计算机或心理学、认知科学背景的同学。
 欢迎有意读硕士（语言学学硕、翻译专硕）的同学联系我！
-
 
 ## Lab members 
 
