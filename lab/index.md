@@ -45,7 +45,7 @@ We are actively recruiting students interested in computational linguistics and 
 ### Previous lab members
 - [Shisen Yue](https://shawn0918.github.io/){:target="_blank"} (2024 English, SJTU;  PhD student in Cognitive Science at Johns Hopkins U)
 - Jieqiong Ding (2024 English/Design, SJTU;  Master student in HCI at U Washington)
-- Xinyuan Cheng (2024 German, SJTU)
+- Xinyuan Cheng (2024 German, SJTU; MA student in Computational Linguistics at LMU, Germany)
 - Xiaojing Zhao (2024 MA in Transltaion, SJTU; PhD student in Translation at PolyU)
 - Chunhao Wang (2023 BA in English/BS in Math; master student at UC Berkeley)
 - Minghua Wu: MA student in Chinese at PKU（research assistant at PolyU, HK）
