@@ -21,7 +21,7 @@ for more.
 
 ### 2025
 
-- Hu*, Hai, Aini Li*, Yina Patterson, Jiahui Huang, Chien-Jer Charles Lin. (accepted). Bilingual Influences and Sources of Variability in Acceptability Judgments: A Case Study of Chinese. *Lingua*. [data](osf.io/z5pts/){:target="_blank"}. *equal contributions
+- Hu\*, Hai, Aini Li\*, Yina Patterson, Jiahui Huang, Chien-Jer Charles Lin. (accepted). Bilingual Influences and Sources of Variability in Acceptability Judgments: A Case Study of Chinese. *Lingua*. [data](osf.io/z5pts/){:target="_blank"}. \*equal contributions
 
 
 ### 2024
