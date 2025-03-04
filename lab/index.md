@@ -15,11 +15,11 @@ Our lab is equipped with several deep learning servers for training and evaluati
 
 We are actively recruiting students interested in computational linguistics and related areas!
 
-上海交通大学计算语言学实验室研究方向包括：
+上海交通大学外国语学院计算语言学实验室研究方向包括：
 
-1）通过计算建模研究人类语言的各个方面，包括但不限于：句法、语义、语用
-2）自然语言处理，主要集中在建设以语言学知识为基础的评测，用以评测语言模型
-3）对比人类学习与机器学习的异同
+1. 通过计算建模研究人类语言的各个方面，包括但不限于：句法、语义、语用
+2. 自然语言处理，主要集中在建设以语言学知识为基础的评测，用以评测语言模型
+3. 对比人类学习与机器学习的异同
 
 本实验室配备多个服务器，用于大语言模型的训练和推理。实验室成员背景各异，包括语言学、计算机、翻译、信息工程、英德汉语等。
 
