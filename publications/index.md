@@ -13,6 +13,8 @@ for more.
 
 ### preprint
 
+- Hou, Xinmeng, Lingyue Fu, Chenhao Meng, and Hai Hu#. (2024). Train Once for All: A Transitional Approach for Efficient Aspect Sentiment Triplet Extraction. [paper](https://arxiv.org/abs/2412.00208){:target="_blank"}
+
 - Liu, Y., Shen, Y., Zhu, H., Xu, L., Qian, Z., Song, S., Zhang, K., Tang, J., Zhang, P., Yang, B., Wang, R., & Hu, H#. (2024). ZhoBLiMP: a Systematic Assessment of Language Models with Linguistic Minimal Pairs in Chinese. [paper](https://arxiv.org/abs/2411.06096){:target="_blank"}. [data](https://github.com/sjtu-compling/ZhoBLiMP){:target="_blank"}.
 
 - Hai Hu\*, Ziyin Zhang\*, Weifang Huang, Jackie Yan-Ki Lai, Aini Li, Yina Patterson, Jiahui Huang, Peng Zhang, Chien-Jer Charles Lin, Rui Wang. (2023). Revisiting Acceptability Judgements: CoLAC - Corpus of Linguistic Acceptability in Chinese. ArXiv, abs/2305.14091. *\*equal contributions*. [paper](https://arxiv.org/abs/2305.14091){:target="_blank"}. [data](https://github.com/huhailinguist/CoLAC){:target="_blank"}.
