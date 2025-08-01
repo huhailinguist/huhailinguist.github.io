@@ -10,7 +10,9 @@ My name is 胡 (Hu) 海 (Hai), but in English people say it in the reverse way, 
  
 <img src="/photos/photo1.jpg" alt="oops, where is the photo?" style="width: 160px; float: left; margin: 0px 15px 15px 0px;" />
  
-I am an Assistant Professor in the Translation Department at Shanghai Jiao Tong University.
+I am an Assistant Professor in the Department of Linguistics and Translation at City University of Hong Kong, starting Aug 2025. 
+
+Previously, I was Assistant Professor in the School of Foreign Languages at Shanghai Jiao Tong University (2021-2025).
 
 I work in the field of Computational Linguistics (or Natural Language Processing), which involves building, evaluating and interpreting computational models that understand and produce human languages. 
 
@@ -25,4 +27,4 @@ My research interests: natural language inference, Chinese linguistics, language
 
 **OUR LAB is constangly HIRING** students who are interested in computational linguistics. 
 
-You can reach me at: hu.hai at sjtu.edu.cn 
+You can reach me at: hu.hai at cityu.edu.hk
