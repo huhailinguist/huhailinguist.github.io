@@ -13,7 +13,7 @@ for more.
 
 ### preprint
 
-- Hou, Xinmeng, Lingyue Fu, Chenhao Meng, and Hai Hu#. (2024). Train Once for All: A Transitional Approach for Efficient Aspect Sentiment Triplet Extraction. [paper](https://arxiv.org/abs/2412.00208){:target="_blank"}
+- de Paiva, V., Gao, Q., Hu, H., Kovalev, P., Liu, Y., Moss, L. S., & Qian, Z. (2025). Math Natural Language Inference: this should be easy!. arXiv preprint arXiv:2507.23063. [paper](https://arxiv.org/abs/2507.23063){:target="_blank"}
 
 - Liu, Y., Shen, Y., Zhu, H., Xu, L., Qian, Z., Song, S., Zhang, K., Tang, J., Zhang, P., Yang, B., Wang, R., & Hu, H#. (2024). ZhoBLiMP: a Systematic Assessment of Language Models with Linguistic Minimal Pairs in Chinese. [paper](https://arxiv.org/abs/2411.06096){:target="_blank"}. [data](https://github.com/sjtu-compling/ZhoBLiMP){:target="_blank"}.
 
@@ -23,6 +23,10 @@ for more.
 
 ### 2025
 
+- Liu, Y., Zhang, W., Wang, Y., Tang, J., Zhang, P., Yang, B., Huang, F., Wang, R.#, & Hu, H.# (2025). Translationese-index: Using Likelihood Ratios for Graded and Generalizable Measurement of Translationese. In: *Proceedings of EMNLP*. [paper](https://arxiv.org/abs/2507.12260){:target="_blank"}
+  
+- Xinmeng Hou, Lingyue Fu, Chenhao Meng, Kounianhua Du, Wuqi Wang, Hai Hu#. (2025). Train Once for All: A Transitional Approach for Efficient Aspect Sentiment Triplet Extraction. In: *Proceedings of EMNLP (Findings)* [paper](https://arxiv.org/abs/2412.00208){:target="_blank"}
+
 - Hu\*, Hai, Aini Li\*, Yina Patterson, Jiahui Huang, Chien-Jer Charles Lin. (accepted). Bilingual Influences and Sources of Variability in Acceptability Judgments: A Case Study of Chinese. *Lingua*. [data](osf.io/z5pts/){:target="_blank"}. \*equal contributions
 
 
@@ -30,7 +34,7 @@ for more.
 
 - Shisen Yue, Siyuan Song, Xinyuan Cheng, Hai Hu#. (2024). Do Large Language Models Understand Conversational Implicature -- A case study with a Chinese sitcom. *Proceedings of CCL*. [paper](https://arxiv.org/abs/2404.19509){:target="_blank"}. [data](https://github.com/sjtu-compling/llm-pragmatics){:target="_blank"}. **Highlight Paper Award**
 
-- Jushi Kai, Tianhang Zhang, Hai Hu, Zhouhan Lin. (2024). SH2: Self-Highlighted Hesitation Helps You Decode More Truthfully. *Proceedings of EMNLP (Findings)*. [paper](https://arxiv.org/abs/2401.05930){:target="_blank"}.
+- Jushi Kai, Tianhang Zhang, Hai Hu, Zhouhan Lin. (2024). SH2: Self-Highlighted Hesitation Helps You Decode More Truthfully. In: *Proceedings of EMNLP (Findings)*. [paper](https://arxiv.org/abs/2401.05930){:target="_blank"}.
 
 - Ziyin Zhang\*, Yikang Liu\*, Weifang Huang, Junyu Mao, Rui Wang#, Hai Hu#. (2024). MELA: Multilingual Evaluation of Linguistic Acceptability. In *Proceedings of ACL*. [paper](https://arxiv.org/abs/2311.09033){:target="_blank"}. [data](https://github.com/sjtu-compling/MELA){:target="_blank"} *\*equal contributions*.
 
