@@ -1,8 +1,20 @@
 ---
 layout: page
-title: Datasets 
+title: Funding & Datasets 
 order: 3
 ---
+
+### Funding received
+
+<ul>
+	<!-- <li>主持：国家社会科学基金一般项目 2025- </li> -->
+	<li>主持：上海交通大学文科创新计划 2023-2025 </li>
+	<li>主持：上海市浦江人才计划 2022- </li>
+	<li>主持：教育部人文社科青年项目 2022- </li>
+	<li>Dissertation Completion Fellowship, Indiana University 2020-2021 </li>
+	<li>参与：Indiana University - Renmin University Seed fund 2019-2021 </li>
+</ul>
+
 
 ### Please consider using the systems and benchmarks developed by us 
 
