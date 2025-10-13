@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Funding & Datasets 
+title: Grants & Datasets 
 order: 3
 ---
 
-### Funding received
+### Grants received
 
 <ul>
-	<!-- <li>主持：国家社会科学基金一般项目 2025- </li> -->
+	<li>主持：国家社会科学基金一般项目 2025- </li>
 	<li>主持：上海交通大学文科创新计划 2023-2025 </li>
 	<li>主持：上海市浦江人才计划 2022- </li>
 	<li>主持：教育部人文社科青年项目 2022- </li>
