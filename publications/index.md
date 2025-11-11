@@ -22,10 +22,9 @@ for more.
 
 - Liu, Y., Shen, Y., Zhu, H., Xu, L., Qian, Z., Song, S., Zhang, K., Tang, J., Zhang, P., Yang, B., Wang, R., & Hu, H#. (accepted). ZhoBLiMP: a Systematic Assessment of Language Models with Linguistic Minimal Pairs in Chinese. *Transactions of ACL*. [paper](https://arxiv.org/abs/2411.06096){:target="_blank"}. [data](https://github.com/sjtu-compling/ZhoBLiMP){:target="_blank"}.
 
-
 - de Paiva, V., Gao, Q., Hu, H., Kovalev, P., Liu, Y., Moss, L. S., & Qian, Z. (2025). Math Natural Language Inference: this should be easy!. In: *Proceedings of  The 14th Joint Conference on Lexical and Computational Semantics (StarSEM)*. [paper](https://arxiv.org/abs/2507.23063){:target="_blank"}
 
-- Liu, Y., Zhang, W., Wang, Y., Tang, J., Zhang, P., Yang, B., Huang, F., Wang, R.#, & Hu, H.# (2025). Translationese-index: Using Likelihood Ratios for Graded and Generalizable Measurement of Translationese. In: *Proceedings of EMNLP*. [paper](https://arxiv.org/abs/2507.12260){:target="_blank"}
+- Liu, Y., Zhang, W., Wang, Y., Tang, J., Zhang, P., Yang, B., Huang, F., Wang, R.#, & Hu, H.# (2025). Translationese-index: Using Likelihood Ratios for Graded and Generalizable Measurement of Translationese. In: *Proceedings of EMNLP*. (Oral) [paper](https://arxiv.org/abs/2507.12260){:target="_blank"}
   
 - Xinmeng Hou, Lingyue Fu, Chenhao Meng, Kounianhua Du, Wuqi Wang, Hai Hu#. (2025). Train Once for All: A Transitional Approach for Efficient Aspect Sentiment Triplet Extraction. In: *Proceedings of EMNLP (Findings)* [paper](https://arxiv.org/abs/2412.00208){:target="_blank"}
 
