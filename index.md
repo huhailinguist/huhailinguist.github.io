@@ -7,23 +7,37 @@ title: Homepage of Hai Hu
 
 My name is 胡 (Hu) 海 (Hai), but in English people say it in the reverse way, which sounds more like: Hi! Who?
  
- 
 <img src="/photos/photo1.jpg" alt="oops, where is the photo?" style="width: 160px; float: left; margin: 0px 15px 15px 0px;" />
  
 I am an Assistant Professor in the Department of Linguistics and Translation at City University of Hong Kong, starting Aug 2025. 
 
-Previously, I was Assistant Professor in the School of Foreign Languages at Shanghai Jiao Tong University (2021-2025).
+My research interests:
+1. Benchmarking (L)LMs on Chinese (esp. all kinds of reasoning abilities)
+2. BabyLM: training small LMs in controlled settings to study the learning dynamics and their alignment with kids/human language learning
+3. Cognitive science: computational modeling for psycho- and neuro-linguistics
+4. Chinese linguistics, treebanking, translation studies, etc.
 
-I work in the field of Computational Linguistics (or Natural Language Processing), which involves building, evaluating and interpreting computational models that understand and produce human languages. 
+I like building datasets and training models for Chinese NLP. I am a founding member of [CLUE](https://github.com/CLUEbenchmark/CLUE), one of the first evaluation suites for Chinese NLU, which includes 
+some benchmarks we made, for instance, a reasoning dataset in Chinese: [OCNLI](https://github.com/CLUEbenchmark/OCNLI).
+More recently, we constructed the first benchmark on conversational implicature in Chinese, based on the sitcom 武林外传, [SwordsmanImp](https://arxiv.org/abs/2404.19509),
+the most comprehensive minimal pair benchmark for Chinese syntax, [ZhoBLiMP](https://arxiv.org/abs/2411.06096), among several others. 
+We conducted the first comprehensive study in China to examine whether EFL (English as Foreign Language) instructors can detect GPT-written essays ([paper](https://arxiv.org/abs/2304.07666)), and released a sentence-level detector of AI-written argumentative essays. 
+You can find more on [Datasets](https://huhailinguist.github.io/datasets/).
 
-I received my PhD degree in (Computational) Linguistics from the Department of Linguistics at [Indiana University Bloomington](https://linguistics.indiana.edu/){:target="_blank"} (IU). 
-I was very lucky to be advised by [Larry Moss](https://iulg.sitehost.iu.edu/moss/){:target="_blank"} (Math) and [Sandra Kübler](https://cl.indiana.edu/~skuebler/){:target="_blank"} (Computational Linguistics). I also work closely with [Chien-Jer Charles Lin](https://ealc.indiana.edu/people/lin-chien-jer-charles.html) and [Patrícia Amaral](https://spanport.indiana.edu/about/faculty/amaral-patricia.html) at IU. 
+For publications, see my [Google Scholar](https://scholar.google.com/citations?user=G2RN6qMAAAAJ&hl=en). 
 
-Before IU, I got my BA in English and MA in English linguistics at [Renmin University of China](http://www.ruc.edu.cn/){:target="_blank"}. I spent one year at [Universität Tübingen](https://uni-tuebingen.de/en/university.html){:target="_blank"} as an exchange student and learned some [Schwäbisch](https://www.schwaebisch-schwaetza.de/schwaebisch_woerterbuch.html){:target="_blank"} German :)
+Experience:
+- 2021-2025, Assistant Professor, School of Foreign Languages, Shanghai Jiao Tong University.
+
+Education:
+- 2021, PhD in Computational Linguistics, Department of Linguistics, [Indiana University Bloomington](https://linguistics.indiana.edu/){:target="_blank"} (IU).
+   - Advisors: [Larry Moss](https://iulg.sitehost.iu.edu/moss/){:target="_blank"} (Math), [Sandra Kübler](https://cl.indiana.edu/~skuebler/){:target="_blank"} (Computational Linguistics)
+   - I also work closely with [Chien-Jer Charles Lin](https://ealc.indiana.edu/people/lin-chien-jer-charles.html) and [Patrícia Amaral](https://spanport.indiana.edu/about/faculty/amaral-patricia.html) at IU. 
+- 2012/2015, BA/MA in English Linguistics, [Renmin University of China](http://www.ruc.edu.cn/){:target="_blank"}
+   - 2013, exchange student, [Universität Tübingen](https://uni-tuebingen.de/en/university.html){:target="_blank"}
 
 Chengdu is my hometown, which is also home to pandas :panda_face:, hot pot :stew:, all kinds of spicy and non-spicy food, and :mahjong:.
- 
-My research interests: natural language inference, Chinese linguistics, language variation and change, natural language understanding corpus annotation, stylistic properties of translations. See my [Publications (mostly up to date)](publications/) or [Google Scholar](https://scholar.google.com/citations?user=G2RN6qMAAAAJ&hl=en) page for papers and more information. 
+
 
 **OUR LAB is constangly HIRING** students who are interested in computational linguistics. 
 
