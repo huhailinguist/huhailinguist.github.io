@@ -4,10 +4,10 @@ title: Homepage of Hai Hu
 ---
 
 # Homepage of Hai Hu
-
-My name is 胡 (Hu) 海 (Hai), but in English people say it in the reverse way, which sounds more like: Hi! Who?
  
 <img src="/photos/photo1.jpg" alt="oops, where is the photo?" style="width: 160px; float: left; margin: 0px 15px 15px 0px;" />
+
+My name is 胡 (Hu) 海 (Hai), but in English people say it in the reverse way, which sounds more like: Hi! Who?
  
 I am an Assistant Professor in the Department of Linguistics and Translation at City University of Hong Kong, starting Aug 2025. 
 
