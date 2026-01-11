@@ -22,7 +22,7 @@ for more.
 
 - Lin, C., Zhou, H., Hu, H. (2026). Thinking Differently in Chinese and English: The Role of Grammar in Translational Thinking. In: Moser, D. (eds) *Thinking in Chinese and English*. Springer, Singapore. [paper](https://doi.org/10.1007/978-981-95-1165-5_5){:target="_blank"}
 
-- Jaap Jumelet, Abdellah Fourtassi, Akari Haga, Bastian Bunzeck, Bhargav Shandilya, Diana Galvan-Sosa, Faiz Ghifari Haznitrama, Francesca Padovani, Francois Meyer, Hai Hu, Julen Etxaniz, Laurent Prévot, Linyang He, María Grandury, Mila Marcheva, Negar Foroutan, Nikitas Theodoropoulos, Pouya Sadeghi, Siyuan Song, Suchir Salhan, Susana Zhou, Yurii Paniv, Ziyin Zhang, Arianna Bisazza, Alex Warstadt, Leshem Choshen. (2026). BabyBabelLM: A Multilingual Benchmark of Developmentally Plausible Training Data. EACL. [paper](https://arxiv.org/abs/2510.10159){:target="_blank"}. [data]([https://github.com/huhailinguist/ArguGPT](https://huggingface.co/collections/BabyLM-community/babybabellm){:target="_blank"}.
+- Jaap Jumelet, Abdellah Fourtassi, Akari Haga, Bastian Bunzeck, Bhargav Shandilya, Diana Galvan-Sosa, Faiz Ghifari Haznitrama, Francesca Padovani, Francois Meyer, Hai Hu, Julen Etxaniz, Laurent Prévot, Linyang He, María Grandury, Mila Marcheva, Negar Foroutan, Nikitas Theodoropoulos, Pouya Sadeghi, Siyuan Song, Suchir Salhan, Susana Zhou, Yurii Paniv, Ziyin Zhang, Arianna Bisazza, Alex Warstadt, Leshem Choshen. (2026). BabyBabelLM: A Multilingual Benchmark of Developmentally Plausible Training Data. EACL. [paper](https://arxiv.org/abs/2510.10159){:target="_blank"}. [data](https://huggingface.co/collections/BabyLM-community/babybabellm){:target="_blank"}.
 
 ### 2025
 
