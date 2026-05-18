@@ -42,3 +42,9 @@ Chengdu is my hometown, which is also home to pandas :panda_face:, hot pot :stew
 **OUR LAB is constangly HIRING** students who are interested in computational linguistics. 
 
 You can reach me at: hu.hai at cityu.edu.hk
+
+
+
+### News
+
+- [2026/04/15] We are organizing the first [ChineseBabyLM](https://chinese-babylm.github.io/) challenge, which will be a shared task in [NLPCC2026](http://tcci.ccf.org.cn/conference/2026/shared-tasks/). Please consider participating!
