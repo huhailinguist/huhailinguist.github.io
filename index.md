@@ -47,4 +47,4 @@ You can reach me at: hu.hai at cityu.edu.hk
 
 ### News
 
-- [2026/04/15] We are organizing the first [ChineseBabyLM](https://chinese-babylm.github.io/) challenge, which will be a shared task in [NLPCC2026](http://tcci.ccf.org.cn/conference/2026/shared-tasks/). Please consider participating!
+- [2026/04/15] We are organizing the first [ChineseBabyLM](https://chinese-babylm.github.io/) challenge, which will be a shared task in [NLPCC2026](http://tcci.ccf.org.cn/conference/2026/shared-tasks/). We have three tracks: NLU, Cognition (Neural alignment), and Hanzi (Chinese characters). Please consider participating!
