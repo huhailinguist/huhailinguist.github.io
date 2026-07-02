@@ -27,6 +27,7 @@ You can find more on [Datasets](https://huhailinguist.github.io/datasets/).
 For publications, see my [Google Scholar](https://scholar.google.com/citations?user=G2RN6qMAAAAJ&hl=en). 
 
 Experience:
+- 2025/08-2026/06, Assistant Professor, Dept of Linguistics and Translation, City University of Hong Kong.
 - 2021-2025, Assistant Professor, School of Foreign Languages, Shanghai Jiao Tong University.
 
 Education:
@@ -47,4 +48,5 @@ You can reach me at: hu.hai at cityu.edu.hk
 
 ### News
 
+- [2026/06] Final results for the first ChineseBabyLM: [leaderboard](https://huggingface.co/spaces/chinese-babylm-org/chinesebabylm-2026-final-leaderboard). Thanks to all the teams who participated!
 - [2026/04/15] We are organizing the first [ChineseBabyLM](https://chinese-babylm.github.io/) challenge, which will be a shared task in [NLPCC2026](http://tcci.ccf.org.cn/conference/2026/shared-tasks/). We have three tracks: NLU, Cognition (Neural alignment), and Hanzi (Chinese characters). Please consider participating!
