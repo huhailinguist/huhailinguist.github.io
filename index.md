@@ -9,7 +9,7 @@ title: Homepage of Hai Hu
 
 My name is 胡 (Hu) 海 (Hai), but in English people say it in the reverse way, which sounds more like: Hi! Who?
  
-I am an Assistant Professor in the Department of Language Science and Technology at The Hong Kong Polytechnic University, starting July 2026. 
+I am an Assistant Professor in the Department of Language Science and Technology, with joint appointment in the Division of Artificial Intelligence and the Humanities, at The Hong Kong Polytechnic University, starting July 2026. 
 
 My research interests:
 1. Benchmarking (L)LMs on Chinese (esp. all kinds of reasoning abilities)
@@ -26,7 +26,7 @@ You can find more on [Datasets](https://huhailinguist.github.io/datasets/).
 
 For publications, see my [Google Scholar](https://scholar.google.com/citations?user=G2RN6qMAAAAJ&hl=en). 
 
-Experience:
+Past Experiences:
 - 2025/08-2026/06, Assistant Professor, Dept of Linguistics and Translation, City University of Hong Kong.
 - 2021-2025, Assistant Professor, School of Foreign Languages, Shanghai Jiao Tong University.
 
