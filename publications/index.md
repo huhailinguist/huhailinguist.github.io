@@ -13,7 +13,7 @@ for the most up-to-date info.
 
 ### preprint
 
-- Song, S., Qian, Z., Zhang, Y., He, L., Ji, X., Lin, Y., Zhu, H., Shao, C., Lang, C., Li, L., Wang, R., Hu, R., Wang, S., & Hu, H. (2026). The First ChineseBabyLM Challenge: training data-efficient and cognitively plausible language models for Chinese. [paper](https://arxiv.org/abs/2607.10745){:target="_blank"} [website]([https://github.com/huhailinguist/CoLAC](https://chinese-babylm.github.io/#evaluation)){:target="_blank"}.
+- Song, S., Qian, Z., Zhang, Y., He, L., Ji, X., Lin, Y., Zhu, H., Shao, C., Lang, C., Li, L., Wang, R., Hu, R., Wang, S., & Hu, H. (2026). The First ChineseBabyLM Challenge: training data-efficient and cognitively plausible language models for Chinese. [paper](https://arxiv.org/abs/2607.10745){:target="_blank"} [website](https://chinese-babylm.github.io/){:target="_blank"}.
 
 - Hai Hu\*, Ziyin Zhang\*, Weifang Huang, Jackie Yan-Ki Lai, Aini Li, Yina Patterson, Jiahui Huang, Peng Zhang, Chien-Jer Charles Lin, Rui Wang. (2023). Revisiting Acceptability Judgements: CoLAC - Corpus of Linguistic Acceptability in Chinese. ArXiv, abs/2305.14091. *\*equal contributions*. [paper](https://arxiv.org/abs/2305.14091){:target="_blank"}. [data](https://github.com/huhailinguist/CoLAC){:target="_blank"}.
 
