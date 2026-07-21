@@ -52,9 +52,9 @@ We are actively recruiting students interested in computational linguistics and 
 - Chenhao Meng (English, SJTU)
 
 ### Lab alumni
-- Xinmeng Hou (MA Teachers College, Columbia University)
+- Xinmeng Hou (MA Teachers College, Columbia University -> PhD student at NTU, Singapore)
 - [Hongao Zhu](https://hongao0611.github.io/publications/){:target="_blank"} (2025 English, SJTU -> PhD student in Computational Linguistics, UCSD)
-- [Siyuan Song](https://siyuansong.site/){:target="_blank"} (2026 English, SJTU -> undergraduate student in Linguistics, UT Austin -> PhD in Psychology, Princeton)
+- [Siyuan Song](https://siyuansong.site/){:target="_blank"} (2026 English, SJTU -> undergraduate student in Linguistics, UT Austin -> PhD student in Psychology, Princeton)
 - [Shisen Yue](https://shawn0918.github.io/){:target="_blank"} (2024 English, SJTU ->  PhD student in Cognitive Science at Johns Hopkins U)
 - Jieqiong Ding (2024 English/Design, SJTU ->  Master student in HCI at U Washington)
 - Xinyuan Cheng (2024 German, SJTU -> MA student in Computational Linguistics at LMU, Germany)
