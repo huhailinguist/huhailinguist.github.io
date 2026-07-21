@@ -4,7 +4,7 @@ title:  CL lab
 order: 1
 ---
 
-The computational linguistics (CL) lab at Dept of Linguistics and Translation, CityUHK
+The computational linguistics (CL) lab at Dept of Language Science and Technology, HK PolyU
 studies:
 
 1) various aspects (e.g., syntax, semantics and pragmatics) of human languages through computational modelling 
@@ -15,7 +15,7 @@ Our lab is equipped with several deep learning servers for training and evaluati
 
 We are actively recruiting students interested in computational linguistics and related areas!
 
-香港城市大学计算语言学实验室研究方向包括：
+香港理工大学计算语言学实验室研究方向包括：
 
 1. 通过计算建模研究人类语言的各个方面，包括但不限于：句法、语义、语用
 2. 自然语言处理，主要集中在建设以语言学知识为基础的评测，用以评测语言模型
@@ -23,27 +23,27 @@ We are actively recruiting students interested in computational linguistics and 
 
 本实验室配备多个服务器，用于大语言模型的训练和推理。实验室成员背景各异，包括语言学、计算机、翻译、信息工程、英德汉语等。
 
-欢迎对计算语言学/自然语言处理/语料库语言学/机器翻译/认知科学感兴趣的本科同学加入本组！ 特别欢迎有计算机或心理学、认知科学背景的同学。
-欢迎有意攻读CityUHK博士学位的同学联系我！
+欢迎对计算语言学/自然语言处理/大语言模型/认知科学感兴趣的本科同学加入本组！ 特别欢迎有计算机或心理学、认知科学背景的同学。
+欢迎有意攻读PolyU博士学位的同学联系我！
 
 ## Lab members 
 
 ### Lead
 
-- Hai Hu: Assistant Professor at Linguistics and Translation, City University of Hong Kong
+- Hai Hu: Assistant Professor, Language Science and Technology/AI and the Humanities, The Hong Kong Polytechnic  University
 
 ### Students
 
 #### Graduate students:
-- [Yikang Liu](https://yikang0131.github.io){:target="_blank"}: master student in linguistics at SFL, SJTU 
+- [Yikang Liu](https://yikang0131.github.io){:target="_blank"}: master student in linguistics at SFL, SJTU -> PhD student in CS, SJTU
 - [Ziyin Zhang](https://geralt-targaryen.github.io/){:target="_blank"} (BS in CS/BA in English, SJTU ->  PhD student in CS, SJTU)
 - Juhui Zhu: MA student in translation, SJTU
 - Jiayi Liu: MA student in translation, SJTU
 
 #### Undergraduate students:
-- Chongtian Shao (Info Engineering, SJTU)
+- Chongtian Shao (Info Engineering, SJTU -> PhD in AI, SJTU)
 - Kejia Zhang (English, SJTU)
-- Zeyin Li (CS, Ningxia U/SJTU)
+- Zeyin Li (CS, Ningxia U/SJTU -> Master in CS, )
 - Zhiheng Qian (German, SJTU)
 - Zhouquan Lu (Japanese, SJTU)
 - Guanxiu Lu (Japanese, SJTU)
