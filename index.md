@@ -42,7 +42,7 @@ Chengdu is my hometown, which is also home to pandas :panda_face:, hot pot :stew
 
 **OUR LAB is constangly HIRING** students who are interested in computational linguistics. 
 
-You can reach me at: hu.hai at cityu.edu.hk
+You can reach me at: hai.hu at polyu.edu.hk
 
 
 
