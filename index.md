@@ -48,5 +48,6 @@ You can reach me at: hai.hu at polyu.edu.hk
 
 ### News
 
+- [2026/07] Report [paper](https://arxiv.org/abs/2607.10745) for the first ChineseBabyLM is out. Take a look if you are interested! Reports of the winning systems will soon be out with NLPCC 2026. Stay tuned!
 - [2026/06] Final results for the first ChineseBabyLM: [leaderboard](https://huggingface.co/spaces/chinese-babylm-org/chinesebabylm-2026-final-leaderboard). Thanks to all the teams who participated!
 - [2026/04/15] We are organizing the first [ChineseBabyLM](https://chinese-babylm.github.io/) challenge, which will be a shared task in [NLPCC2026](http://tcci.ccf.org.cn/conference/2026/shared-tasks/). We have three tracks: NLU, Cognition (Neural alignment), and Hanzi (Chinese characters). Please consider participating!
