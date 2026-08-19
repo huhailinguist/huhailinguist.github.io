@@ -35,23 +35,21 @@ We are actively recruiting students interested in computational linguistics and 
 ### Students
 
 #### Graduate students:
+- Yi Hu: BA English, SYSU -> MA Linguistics, SJTU -> Incoming PhD student LST, PolyU
+
+#### Research Assistants:
+- Xiaozhe Ji: MA student in English, BNU
+- Yingxin Lin: BA student in Chinese, THU
+- Zhiheng Qian: BA student in German/Automation, SJTU
+- Zeyin Li: CS, Ningxia U/SJTU -> Master in CS, USTC
+- Chongtian Shao: Info Engineering, SJTU -> PhD in AI, SJTU
+
+### Lab alumni 
 - [Yikang Liu](https://yikang0131.github.io){:target="_blank"}: master student in linguistics at SFL, SJTU -> PhD student in CS, SJTU
-- [Ziyin Zhang](https://geralt-targaryen.github.io/){:target="_blank"} (BS in CS/BA in English, SJTU ->  PhD student in CS, SJTU)
-- Yeting Shen (2025 English, SJTU -> MA student in linguistics, SJTU)
+- [Ziyin Zhang](https://geralt-targaryen.github.io/){:target="_blank"}: BS in CS/BA in English, SJTU ->  PhD student in CS, SJTU
+- Yeting Shen: 2025 English, SJTU -> MA student in linguistics, SJTU
 - Juhui Zhu: MA student in translation, SJTU
 - Jiayi Liu: MA student in translation, SJTU
-
-#### Undergraduate students:
-- Chongtian Shao (Info Engineering, SJTU -> PhD in AI, SJTU)
-- Kejia Zhang (English, SJTU)
-- Zeyin Li (CS, Ningxia U/SJTU -> Master in CS, USTC)
-- Zhiheng Qian (German, SJTU)
-- Zhouquan Lu (Japanese, SJTU)
-- Guanxiu Lu (Japanese, SJTU)
-- Tianjian Zhu (English, SJTU)
-- Chenhao Meng (English, SJTU)
-
-### Lab alumni
 - Xinmeng Hou (MA Teachers College, Columbia University -> PhD student at NTU, Singapore)
 - [Hongao Zhu](https://hongao0611.github.io/publications/){:target="_blank"} (2025 English, SJTU -> PhD student in Computational Linguistics, UCSD)
 - [Siyuan Song](https://siyuansong.site/){:target="_blank"} (2026 English, SJTU -> undergraduate student in Linguistics, UT Austin -> PhD student in Psychology, Princeton)
@@ -60,5 +58,10 @@ We are actively recruiting students interested in computational linguistics and 
 - Xinyuan Cheng (2024 German, SJTU -> MA student in Computational Linguistics at LMU, Germany)
 - [Xiaojing Zhao](https://zcocozz.github.io/){:target="_blank"} (2024 MA in Transltaion, SJTU -> PhD student in Translation at CBS PolyU, HK)
 - Chunhao Wang (2023 BA in English/BS in Math -> master student at UC Berkeley)
-- Minghua Wu: MA student in Chinese at PKU（research assistant at PolyU, HK）
-- Jingyan Xie: BA student in English at FDU (master student at Northeastern U, USA)
+- Minghua Wu: MA student in Chinese at PKU（-> research assistant at PolyU, HK）
+- Jingyan Xie: BA student in English at FDU (-> master student at Northeastern U, USA)
+- Kejia Zhang (BA student in English, SJTU)
+- Zhouquan Lu (BA student in Japanese, SJTU)
+- Guanxiu Lu (BA student in Japanese, SJTU)
+- Tianjian Zhu (BA student in English, SJTU)
+- Chenhao Meng (BA student in English, SJTU)
