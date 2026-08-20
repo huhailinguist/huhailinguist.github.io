@@ -4,14 +4,22 @@ title:  Teaching
 order: 5
 ---
 
-## 2017 Fall
+## 2025 - 2026 @ CityUHK
 
-LING-103 Introduction to the study of language, TA
+- LT3210 Electronic Publishing (Undergraduate level)
+- LT5458 Computer-assisted Language Learning (Graduate level)
 
-## 2019 Fall
+## 2021 - 2025 @ Shanghai Jiao Tong University
+
+- Language Intelligence (Undergraduate level)
+- Introduction to the Principles and Applications of Large Language Models (Undergraduate level)
+- Academic Writing (Graduate level)
+- College English (Undergraduate level)
+- Viewing, Listening and Speaking (Undergraduate level)
+
+## 2019 Fall @ IU
 
 LING-203 Introduction to linguistic analysis, Instructor
-
 
 ### Useful Resources
 
@@ -37,11 +45,12 @@ _Additionally_:
 
 - An excellent website with information on graduate programs, jobs, internships etc. in linguistics: [LINGUIST List](https://linguistlist.org/) 
 
-- FLAS scholarship at IU: [link](https://hls.indiana.edu/student-life/scholarships/flas.html)
-
-> The Foreign Language and Area Studies (FLAS) fellowships are funded by the United States Department of Education in support of graduate and undergraduate students studying less commonly taught languages and cultures, in particular, those considered to be of critical interest to the United States.
-
 _Miscellaneous_:
 
 - Correction is usually futile in first language learning, [example](https://huhailinguist.github.io/teaching/pinker_p285.JPG){:target="_blank"}.
+
+
+## 2017 Fall @ IU
+
+LING-103 Introduction to the study of language, TA
 
