@@ -7,11 +7,12 @@ order: 3
 ### Grants received
 
 <ul>
-	<li>PI：General Research Fund (GRF), Hong Kong RGC 2027- </li>
-	<li>主持：国家社会科学基金一般项目 2025- </li>
-	<li>主持：上海交通大学文科创新计划 2023-2025 </li>
-	<li>主持：上海市浦江人才计划 2022-2026 </li>
-	<li>主持：教育部人文社科青年项目 2022- </li>
+	<li>PI：General Research Fund (GRF), Hong Kong RGC 2027- ; 522,500 HKD</li>
+	<li>主持：国家社会科学基金一般项目 2025- ; 200,000 RMB</li>
+	<li>主持：上海交通大学文科创新计划 2023-2025; 50,000 RMB</li>
+	<li>主持：上海市浦江人才计划 2022-2026; 150,000 RMB </li>
+	<li>主持：教育部人文社科青年项目 2022- ; 80,000 RMB</li>
+	<li>主持：上海交通大学科研启动经费 2021-2024 </li>
 	<li>PI: Dissertation Completion Fellowship, Indiana University 2020-2021 </li>
 	<li>Co-Investigator: Indiana University - Renmin University Seed fund 2019-2021 </li>
 </ul>
